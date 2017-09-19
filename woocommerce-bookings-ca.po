@@ -1,0 +1,2847 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bookings 1.10.7\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2017-09-18 16:01+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-09-18 18:07+0200\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca\n"
+
+#: includes/addons/accommodation-booking.php:17
+msgid "Accommodation booking"
+msgstr "Reserva d'allotjament"
+
+#: includes/admin/class-wc-bookable-resource-cpt.php:37
+msgid "Bookable resource name"
+msgstr "Nom del recurs reservable"
+
+#: includes/admin/class-wc-bookable-resource-cpt.php:53
+#: includes/admin/views/html-booking-person.php:21
+msgid "Name"
+msgstr "Nom"
+
+#: includes/admin/class-wc-bookable-resource-cpt.php:54
+msgid "Parent products"
+msgstr "Productes pares"
+
+#: includes/admin/class-wc-bookable-resource-cpt.php:55
+#: includes/admin/class-wc-bookings-cpt.php:177
+msgid "Actions"
+msgstr "Accions"
+
+#: includes/admin/class-wc-bookable-resource-cpt.php:94
+#: includes/admin/class-wc-bookings-cpt.php:226
+#: includes/admin/class-wc-bookings-customer-meta-box.php:112
+#: includes/admin/class-wc-bookings-details-meta-box.php:118
+#: includes/admin/class-wc-bookings-details-meta-box.php:155
+#: includes/admin/class-wc-bookings-details-meta-box.php:157
+#: includes/emails/class-wc-email-booking-cancelled.php:96
+#: includes/emails/class-wc-email-booking-confirmed.php:113
+#: includes/emails/class-wc-email-booking-notification.php:99
+#: includes/emails/class-wc-email-booking-notification.php:102
+#: includes/emails/class-wc-email-booking-notification.php:105
+#: includes/emails/class-wc-email-booking-notification.php:108
+#: includes/emails/class-wc-email-booking-reminder.php:83
+#: includes/emails/class-wc-email-new-booking.php:109
+msgid "N/A"
+msgstr "No disponible"
+
+#: includes/admin/class-wc-bookable-resource-cpt.php:101
+#: woocommerce-bookings.php:336 woocommerce-bookings.php:376
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:57
+msgid "Resource details"
+msgstr "Detalls"
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:82
+msgid "Available Quantity"
+msgstr "Quantitat disponible"
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:83
+msgid "The quantity of this resource available at any given time."
+msgstr "La quantitat d'aquest recurs disponible en qualsevol moment donat."
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:101
+#: includes/admin/views/html-booking-availability.php:147
+#: includes/admin/views/html-booking-pricing.php:55
+#: includes/admin/views/html-global-availability-settings.php:65
+msgid "Range type"
+msgstr "Tipus de rang"
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:102
+#: includes/admin/views/html-booking-availability.php:148
+#: includes/admin/views/html-booking-pricing.php:56
+#: includes/admin/views/html-global-availability-settings.php:66
+msgid "Range"
+msgstr "Rang"
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:105
+#: includes/admin/views/html-booking-availability.php:151
+#: includes/admin/views/html-global-availability-settings.php:69
+msgid "Bookable"
+msgstr "Reservable"
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:105
+#: includes/admin/views/html-booking-availability.php:151
+#: includes/admin/views/html-global-availability-settings.php:69
+msgid ""
+"If not bookable, users won't be able to choose this block for their booking."
+msgstr ""
+"Si no es reservable, els usuaris no podran triar aquest bloc per a la seva "
+"reserva."
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:106
+#: includes/admin/views/html-booking-availability.php:152
+#: includes/admin/views/html-global-availability-settings.php:70
+msgid "Priority"
+msgstr "Prioritat"
+
+#: includes/admin/class-wc-bookable-resource-details-meta-box.php:118
+#: includes/admin/views/html-booking-availability.php:164
+#: includes/admin/views/html-booking-pricing.php:72
+#: includes/admin/views/html-global-availability-settings.php:82
+msgid "Add Range"
+msgstr "Afegir rang"
+
+#: includes/admin/class-wc-bookings-addons.php:23
+#: includes/class-wc-booking-order-manager.php:146
+#: includes/class-wc-booking-order-manager.php:168 woocommerce-bookings.php:372
+msgid "Bookings"
+msgstr "Reserves"
+
+#: includes/admin/class-wc-bookings-admin.php:58
+msgid "Clean unused Person Types from DB"
+msgstr "Borrar de la base de dades els tipus de persona que no s'utilitzen"
+
+#: includes/admin/class-wc-bookings-admin.php:59
+msgid "Clean Person Types"
+msgstr "Borrar tipus de persona"
+
+#: includes/admin/class-wc-bookings-admin.php:60
+msgid ""
+"This tool will clean the person types that are not used by any booking or a "
+"product."
+msgstr ""
+"Aquesta eina netejarà els tipus de persona que no són utilitzades per "
+"qualsevol reserva o un producte."
+
+#: includes/admin/class-wc-bookings-admin.php:342
+#: includes/admin/views/html-booking-resources.php:32
+#: includes/admin/views/html-booking-tab.php:1 woocommerce-bookings.php:330
+#: woocommerce-bookings.php:346
+msgid "Resources"
+msgstr "Recursos"
+
+#: includes/admin/class-wc-bookings-admin.php:349
+#: includes/admin/views/html-booking-tab.php:2
+msgid "Availability"
+msgstr "Disponibilitat"
+
+#: includes/admin/class-wc-bookings-admin.php:356
+#: includes/admin/views/html-booking-tab.php:3
+msgid "Costs"
+msgstr "Despeses"
+
+#: includes/admin/class-wc-bookings-admin.php:363
+#: includes/admin/views/html-booking-tab.php:4
+#: includes/booking-form/class-wc-booking-form.php:214
+#: includes/booking-form/class-wc-booking-form.php:405
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:481
+msgid "Persons"
+msgstr "Persones"
+
+#: includes/admin/class-wc-bookings-admin.php:437
+#: includes/admin/class-wc-bookings-admin.php:440
+#: includes/admin/class-wc-bookings-admin.php:442
+msgid "Booking updated."
+msgstr "Reserva actualitzada"
+
+#: includes/admin/class-wc-bookings-admin.php:438
+msgid "Custom field updated."
+msgstr "Camp personalitzat actualitzat."
+
+#: includes/admin/class-wc-bookings-admin.php:439
+msgid "Custom field deleted."
+msgstr "Camp personalitzat eliminat."
+
+#: includes/admin/class-wc-bookings-admin.php:443
+msgid "Booking saved."
+msgstr "Reserva desada."
+
+#: includes/admin/class-wc-bookings-admin.php:444
+msgid "Booking submitted."
+msgstr "Reservar enviada."
+
+#: includes/admin/class-wc-bookings-admin.php:530
+msgid "Bookable product"
+msgstr "Producte reservable"
+
+#: includes/admin/class-wc-bookings-admin.php:596
+msgid "Are you sure you want to remove this person type?"
+msgstr "Esteu segur que voleu suprimir aquest tipus de persona?"
+
+#: includes/admin/class-wc-bookings-admin.php:599
+msgid "Are you sure you want to remove this resource?"
+msgstr "Esteu segur que voleu suprimir aquest recurs?"
+
+#: includes/admin/class-wc-bookings-admin.php:602
+msgid "minutes"
+msgstr "minuts"
+
+#: includes/admin/class-wc-bookings-admin.php:603
+msgid "hours"
+msgstr "hores"
+
+#: includes/admin/class-wc-bookings-admin.php:604
+msgid "days"
+msgstr "dies"
+
+#: includes/admin/class-wc-bookings-admin.php:605
+msgid "Enter a name for the new resource"
+msgstr "Introduïu un nom per al nou recurs"
+
+#: includes/admin/class-wc-bookings-admin.php:625
+msgid "Has persons"
+msgstr "Te persones"
+
+#: includes/admin/class-wc-bookings-admin.php:626
+msgid ""
+"Enable this if this bookable product can be booked by a customer defined "
+"number of persons."
+msgstr ""
+"Activeu si aquest producte reservable pot ser reservat per un nombre definit "
+"de persones per el client ."
+
+#: includes/admin/class-wc-bookings-admin.php:632
+msgid "Has resources"
+msgstr "Te recursos"
+
+#: includes/admin/class-wc-bookings-admin.php:633
+msgid ""
+"Enable this if this bookable product has multiple bookable resources, for "
+"example room types or instructors."
+msgstr ""
+"Activeu si aquest producte reservable té múltiples recursos reservables, per "
+"exemple tipus d'habitacions o instructors."
+
+#: includes/admin/class-wc-bookings-ajax.php:51
+msgid "The resource has already been linked to this product"
+msgstr "El recurs ja ha estat vinculat a aquest producte"
+
+#: includes/admin/class-wc-bookings-ajax.php:66
+msgid "Unable to add resource"
+msgstr "No es pot afegir el recurs"
+
+#: includes/admin/class-wc-bookings-ajax.php:122
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No té permisos suficients per accedir a aquesta pàgina."
+
+#: includes/admin/class-wc-bookings-ajax.php:125
+msgid "You have taken too long. Please go back and retry."
+msgstr "Ha pres massa llarg. Si us plau torni i torneu a provar."
+
+#: includes/admin/class-wc-bookings-ajax.php:158
+msgid "This booking is unavailable."
+msgstr "Aquesta reserva no està disponible."
+
+#: includes/admin/class-wc-bookings-ajax.php:196
+msgid "Booking cost"
+msgstr "Cost de reserva"
+
+#: includes/admin/class-wc-bookings-ajax.php:227
+msgid "Please enter a valid date."
+msgstr "Si us plau, introdueix una data vàlida."
+
+#: includes/admin/class-wc-bookings-ajax.php:264
+msgid "No blocks available."
+msgstr "No hi ha blocs disponibles."
+
+#: includes/admin/class-wc-bookings-calendar.php:99
+#: includes/admin/class-wc-bookings-calendar.php:234
+msgid "Booked by"
+msgstr "Reservat per"
+
+#: includes/admin/class-wc-bookings-calendar.php:103
+msgid "All Day"
+msgstr "Tot el dia"
+
+#: includes/admin/class-wc-bookings-calendar.php:109
+#: includes/admin/class-wc-bookings-calendar.php:237
+#: includes/class-wc-bookings-ics-exporter.php:176
+msgid "Resource #"
+msgstr "Recurs #"
+
+#: includes/admin/class-wc-bookings-cpt.php:68
+msgid "Confirm bookings"
+msgstr "Confirmar les reserves"
+
+#: includes/admin/class-wc-bookings-cpt.php:69
+msgid "Unconfirm bookings"
+msgstr "Reserves sense confirmar"
+
+#: includes/admin/class-wc-bookings-cpt.php:70
+msgid "Cancel bookings"
+msgstr "Cancel·la les reserves"
+
+#: includes/admin/class-wc-bookings-cpt.php:71
+msgid "Mark bookings as paid"
+msgstr "Marcar les reserves com pagades"
+
+#: includes/admin/class-wc-bookings-cpt.php:72
+msgid "Mark bookings as unpaid"
+msgstr "Marcar reserves com no pagades"
+
+#: includes/admin/class-wc-bookings-cpt.php:138
+msgid "Booking status changed."
+msgid_plural "%s booking statuses changed."
+msgstr[0] "Estat de la reserva canviat."
+msgstr[1] "%s estat de les reserves canviat."
+
+#: includes/admin/class-wc-bookings-cpt.php:153
+msgid "Booking Title"
+msgstr "Títol de la reserva"
+
+#: includes/admin/class-wc-bookings-cpt.php:169
+#: templates/myaccount/bookings.php:38 templates/myaccount/my-bookings.php:33
+msgid "Status"
+msgstr "Estat"
+
+#: includes/admin/class-wc-bookings-cpt.php:170
+#: templates/myaccount/bookings.php:33 templates/myaccount/my-bookings.php:28
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/class-wc-bookings-cpt.php:171
+#: templates/emails/admin-booking-cancelled.php:18
+#: templates/emails/admin-new-booking.php:39
+#: templates/emails/customer-booking-cancelled.php:21
+#: templates/emails/customer-booking-confirmed.php:21
+#: templates/emails/customer-booking-notification.php:14
+#: templates/emails/customer-booking-reminder.php:18
+msgid "Booked Product"
+msgstr "Producte reservat"
+
+#: includes/admin/class-wc-bookings-cpt.php:172
+msgid "# of Persons"
+msgstr "# de persones"
+
+#: includes/admin/class-wc-bookings-cpt.php:173
+msgid "Booked By"
+msgstr "Reservat per"
+
+#: includes/admin/class-wc-bookings-cpt.php:174
+#: templates/emails/customer-booking-confirmed.php:77
+#: templates/myaccount/bookings.php:35 templates/myaccount/my-bookings.php:30
+msgid "Order"
+msgstr "Comanda"
+
+#: includes/admin/class-wc-bookings-cpt.php:175
+#: templates/myaccount/bookings.php:36 templates/myaccount/my-bookings.php:31
+msgid "Start Date"
+msgstr "Data inici"
+
+#: includes/admin/class-wc-bookings-cpt.php:176
+#: templates/myaccount/bookings.php:37 templates/myaccount/my-bookings.php:32
+msgid "End Date"
+msgstr "Data final"
+
+#: includes/admin/class-wc-bookings-cpt.php:222
+msgid "Booking #%d"
+msgstr "Reserva #%d"
+
+#: includes/admin/class-wc-bookings-cpt.php:271
+msgid "View"
+msgstr "Mostra"
+
+#: includes/admin/class-wc-bookings-cpt.php:279
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: includes/admin/class-wc-bookings-cpt.php:370
+msgid "All Bookable Products"
+msgstr "Tots els productes reservables"
+
+#: includes/admin/class-wc-bookings-create.php:25
+msgid "Error - please try again"
+msgstr "Error - si us plau, torneu-ho a provar"
+
+#: includes/admin/class-wc-bookings-create.php:34
+msgid "Please choose a bookable product"
+msgstr "Si us plau, escolliu un producte reservable"
+
+#: includes/admin/class-wc-bookings-create.php:42
+#: includes/admin/class-wc-bookings-create.php:90
+msgid "Invalid order ID provided"
+msgstr "ID de comanda no vàlid"
+
+#: includes/admin/class-wc-bookings-create.php:84
+msgid "Error: Could not create order"
+msgstr "Error: No s'ha pogut crear la comanda"
+
+#: includes/admin/class-wc-bookings-create.php:112
+msgid "Error: Could not create item"
+msgstr "Error: No s'ha pogut crear l'element"
+
+#: includes/admin/class-wc-bookings-customer-meta-box.php:50
+msgid "Customer details"
+msgstr "Dades del client"
+
+#: includes/admin/class-wc-bookings-customer-meta-box.php:72
+msgid "Name:"
+msgstr "Nom:"
+
+#: includes/admin/class-wc-bookings-customer-meta-box.php:76
+#: includes/admin/class-wc-bookings-customer-meta-box.php:94
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/admin/class-wc-bookings-customer-meta-box.php:90
+msgid "Address:"
+msgstr "Adreça:"
+
+#: includes/admin/class-wc-bookings-customer-meta-box.php:91
+msgid "No billing address set."
+msgstr "No hi ha cap adreça de facturació establerta."
+
+#: includes/admin/class-wc-bookings-customer-meta-box.php:98
+msgid "Phone:"
+msgstr "Telèfon:"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:57
+msgid "Booking Details"
+msgstr "Detalls de la reserva"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:69
+msgid ""
+"This booking is scheduled over 2 years into the future. Please ensure this "
+"is correct."
+msgstr ""
+"Aquesta reserva s'ha programat per més de 2 anys en el futur. Si us plau, "
+"assegureu-vos que això és correcte."
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:76
+msgid ""
+"This booking is scheduled over the products allowed max booking date (%s). "
+"Please ensure this is correct."
+msgstr ""
+"Aquesta reserva s'ha programat per més de 2 anys en el futur. Si us plau, "
+"assegureu-vos que això és correcte."
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:81
+msgid "This booking has an end date set before the start date."
+msgstr ""
+"Aquesta reserva té una data de finalització establerta abans de la data "
+"d'inici."
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:85
+msgid ""
+"It appears the booking product associated with this booking has been removed."
+msgstr ""
+"Sembla que s'ha tret el producte de reserva associat amb aquesta reserva."
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:90
+msgid ""
+"This booking is missing a required add-on (product type: %s). Some "
+"information is shown below but might be incomplete. Please install the "
+"missing add-on through the plugins screen."
+msgstr ""
+"Aquesta reserva no troba un complement (tipus de producte: %s) que "
+"requereix. Part de la informació es mostra a continuació, però pot ser "
+"incomplet. Si us plau, instal·la el complement a través dels connectors que "
+"falten."
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:137
+msgid "Booking #%s details"
+msgstr "Detalls de la reserva #%s"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:140
+msgid "Linked to order %s."
+msgstr "Enllaçat a la comanda %s."
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:144
+msgid "Booking type: %s"
+msgstr "Tipus de reserva: %s"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:150
+msgid "General details"
+msgstr "Dades generals"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:153
+msgid "Order ID:"
+msgstr "ID de comanda:"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:165
+msgid "Date created:"
+msgstr "Data de creació"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:166
+msgid "h"
+msgstr "h"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:166
+msgid "m"
+msgstr "m"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:170
+msgid "Booking status:"
+msgstr "Estat de la reserva:"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:180
+msgid "Customer:"
+msgstr "Client:"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:183
+#: includes/admin/views/html-create-booking-page.php:18
+#: includes/admin/views/html-create-booking-page.php:20
+msgid "Guest"
+msgstr "Convidat"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:191
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:215
+msgid "Booking specification"
+msgstr "Especificació de la reserva"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:222
+msgid "Booked product:"
+msgstr "Producte reservat"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:229
+msgid "Parent booking ID:"
+msgstr "ID de la reserva pare"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:239
+#: includes/class-wc-bookings-ics-exporter.php:185
+#: includes/wc-bookings-functions.php:131
+#: templates/emails/admin-booking-cancelled.php:47
+#: templates/emails/admin-new-booking.php:67
+#: templates/emails/customer-booking-cancelled.php:49
+#: templates/emails/customer-booking-confirmed.php:49
+#: templates/emails/customer-booking-notification.php:42
+#: templates/emails/customer-booking-reminder.php:46
+#: templates/emails/plain/admin-booking-cancelled.php:29
+#: templates/emails/plain/admin-new-booking.php:52
+#: templates/emails/plain/customer-booking-cancelled.php:33
+#: templates/emails/plain/customer-booking-confirmed.php:33
+#: templates/emails/plain/customer-booking-notification.php:31
+#: templates/emails/plain/customer-booking-reminder.php:33
+msgid "Person(s)"
+msgstr "Persona(es)"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:303
+msgid "Booking date &amp; time"
+msgstr "Reserva Data/Hora"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:307
+msgid "Start date:"
+msgstr "Data d’inici:"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:315
+msgid "End date:"
+msgstr "Data de finalització"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:323
+msgid "All day booking:"
+msgstr "Tot el dia"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:324
+msgid "Check this box if the booking is for all day."
+msgstr "Activeu aquesta casella si la reserva és per a tot el dia."
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:330
+msgid "Start time:"
+msgstr "Hora d’inici:"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:337
+msgid "End time:"
+msgstr "Hora final:"
+
+#: includes/admin/class-wc-bookings-menus.php:73
+#: includes/admin/views/html-create-booking-page-2.php:3
+#: includes/admin/views/html-create-booking-page-2.php:24
+#: includes/admin/views/html-create-booking-page.php:3
+msgid "Create Booking"
+msgstr "Crear Reserva"
+
+#: includes/admin/class-wc-bookings-menus.php:74
+msgid "Calendar"
+msgstr "Calendari"
+
+#: includes/admin/class-wc-bookings-menus.php:75
+#: includes/admin/views/html-notifications-page.php:2
+#: includes/admin/views/html-notifications-page.php:50
+msgid "Send Notification"
+msgstr "Enviar notificació"
+
+#: includes/admin/class-wc-bookings-menus.php:76
+#: includes/admin/views/html-settings-page.php:2
+msgid "Global Availability"
+msgstr "Disponibilitat global"
+
+#: includes/admin/class-wc-bookings-menus.php:127
+msgid "Please choose a product"
+msgstr "Si us plau, trieu un producte"
+
+#: includes/admin/class-wc-bookings-menus.php:130
+msgid "Please enter a message"
+msgstr "Si us plau, introduïu un missatge"
+
+#: includes/admin/class-wc-bookings-menus.php:133
+msgid "Please enter a subject"
+msgstr "Si us plau, introduïu un assumpte"
+
+#: includes/admin/class-wc-bookings-menus.php:152
+msgid "Notification sent successfully"
+msgstr "Notificació enviada correctament"
+
+#: includes/admin/class-wc-bookings-save-meta-box.php:50
+msgid "Booking actions"
+msgstr "Accions de reserva"
+
+#: includes/admin/class-wc-bookings-save-meta-box.php:63
+msgid "Move to trash"
+msgstr "Moure a la paperera"
+
+#: includes/admin/class-wc-bookings-save-meta-box.php:65
+msgid "Save Booking"
+msgstr "Guardar reserva"
+
+#: includes/admin/class-wc-bookings-save-meta-box.php:65
+msgid "Save/update the booking"
+msgstr "Guardar/actualitzar la reserva"
+
+#: includes/admin/views/html-booking-availability-fields.php:5
+#: includes/admin/views/html-booking-pricing-fields.php:9
+msgid "January"
+msgstr "Gener"
+
+#: includes/admin/views/html-booking-availability-fields.php:6
+#: includes/admin/views/html-booking-pricing-fields.php:10
+msgid "February"
+msgstr "Febrer"
+
+#: includes/admin/views/html-booking-availability-fields.php:7
+#: includes/admin/views/html-booking-pricing-fields.php:11
+msgid "March"
+msgstr "Març"
+
+#: includes/admin/views/html-booking-availability-fields.php:8
+#: includes/admin/views/html-booking-pricing-fields.php:12
+msgid "April"
+msgstr "Abril"
+
+#: includes/admin/views/html-booking-availability-fields.php:9
+#: includes/admin/views/html-booking-pricing-fields.php:13
+msgid "May"
+msgstr "Maig"
+
+#: includes/admin/views/html-booking-availability-fields.php:10
+#: includes/admin/views/html-booking-pricing-fields.php:14
+msgid "June"
+msgstr "Juny"
+
+#: includes/admin/views/html-booking-availability-fields.php:11
+#: includes/admin/views/html-booking-pricing-fields.php:15
+msgid "July"
+msgstr "Juliol"
+
+#: includes/admin/views/html-booking-availability-fields.php:12
+#: includes/admin/views/html-booking-pricing-fields.php:16
+msgid "August"
+msgstr "Agost"
+
+#: includes/admin/views/html-booking-availability-fields.php:13
+#: includes/admin/views/html-booking-pricing-fields.php:17
+msgid "September"
+msgstr "Setembre"
+
+#: includes/admin/views/html-booking-availability-fields.php:14
+#: includes/admin/views/html-booking-pricing-fields.php:18
+msgid "October"
+msgstr "Octubre"
+
+#: includes/admin/views/html-booking-availability-fields.php:15
+#: includes/admin/views/html-booking-pricing-fields.php:19
+msgid "November"
+msgstr "Novembre"
+
+#: includes/admin/views/html-booking-availability-fields.php:16
+#: includes/admin/views/html-booking-pricing-fields.php:20
+msgid "December"
+msgstr "Desembre"
+
+#: includes/admin/views/html-booking-availability-fields.php:20
+#: includes/admin/views/html-booking-availability.php:117
+#: includes/admin/views/html-booking-pricing-fields.php:24
+msgid "Monday"
+msgstr "Dilluns"
+
+#: includes/admin/views/html-booking-availability-fields.php:21
+#: includes/admin/views/html-booking-availability.php:118
+#: includes/admin/views/html-booking-pricing-fields.php:25
+msgid "Tuesday"
+msgstr "Dimarts"
+
+#: includes/admin/views/html-booking-availability-fields.php:22
+#: includes/admin/views/html-booking-availability.php:119
+#: includes/admin/views/html-booking-pricing-fields.php:26
+msgid "Wednesday"
+msgstr "Dimecres"
+
+#: includes/admin/views/html-booking-availability-fields.php:23
+#: includes/admin/views/html-booking-availability.php:120
+#: includes/admin/views/html-booking-pricing-fields.php:27
+msgid "Thursday"
+msgstr "Dijous"
+
+#: includes/admin/views/html-booking-availability-fields.php:24
+#: includes/admin/views/html-booking-availability.php:121
+#: includes/admin/views/html-booking-pricing-fields.php:28
+msgid "Friday"
+msgstr "Divendres"
+
+#: includes/admin/views/html-booking-availability-fields.php:25
+#: includes/admin/views/html-booking-availability.php:122
+#: includes/admin/views/html-booking-pricing-fields.php:29
+msgid "Saturday"
+msgstr "Dissabte"
+
+#: includes/admin/views/html-booking-availability-fields.php:26
+#: includes/admin/views/html-booking-availability.php:116
+#: includes/admin/views/html-booking-pricing-fields.php:30
+msgid "Sunday"
+msgstr "Diumenge"
+
+#: includes/admin/views/html-booking-availability-fields.php:30
+#: includes/admin/views/html-booking-pricing-fields.php:34
+msgid "Week %s"
+msgstr "Setmana %s"
+
+#: includes/admin/views/html-booking-availability-fields.php:46
+#: includes/admin/views/html-booking-pricing-fields.php:59
+msgid "Date range"
+msgstr "Interval de dates"
+
+#: includes/admin/views/html-booking-availability-fields.php:47
+#: includes/admin/views/html-booking-pricing-fields.php:60
+msgid "Range of months"
+msgstr "Interval de mesos"
+
+#: includes/admin/views/html-booking-availability-fields.php:48
+#: includes/admin/views/html-booking-pricing-fields.php:61
+msgid "Range of weeks"
+msgstr "Interval de setmanes"
+
+#: includes/admin/views/html-booking-availability-fields.php:49
+#: includes/admin/views/html-booking-pricing-fields.php:62
+msgid "Range of days"
+msgstr "Interval de dies"
+
+#: includes/admin/views/html-booking-availability-fields.php:50
+#: includes/admin/views/html-booking-pricing-fields.php:66
+msgid "Time Ranges"
+msgstr "Intervals de temps"
+
+#: includes/admin/views/html-booking-availability-fields.php:51
+#: includes/admin/views/html-booking-pricing-fields.php:67
+msgid "Time Range (all week)"
+msgstr "Interval de temps (tota la setmana)"
+
+#: includes/admin/views/html-booking-availability-fields.php:52
+#: includes/admin/views/html-booking-pricing-fields.php:68
+msgid "Date Range with time"
+msgstr "Interval de dates amb temps"
+
+#: includes/admin/views/html-booking-availability-fields.php:100
+#: includes/admin/views/html-booking-availability-fields.php:101
+#: includes/admin/views/html-booking-pricing-fields.php:121
+#: includes/admin/views/html-booking-pricing-fields.php:122
+msgid "to"
+msgstr "fins a"
+
+#: includes/admin/views/html-booking-availability-fields.php:146
+msgid "No"
+msgstr "No"
+
+#: includes/admin/views/html-booking-availability-fields.php:147
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/admin/views/html-booking-availability.php:15
+msgid "Max bookings per block"
+msgstr "Màxim de reserves per bloc"
+
+#: includes/admin/views/html-booking-availability.php:16
+msgid ""
+"The maximum bookings allowed for each block. Can be overridden at resource "
+"level."
+msgstr ""
+"Les reserves màximes permeses per a cada bloc. Es pot reemplaçar al nivell "
+"de recursos."
+
+#: includes/admin/views/html-booking-availability.php:28
+msgid "Minimum block bookable"
+msgstr "Mínim bloc reservable"
+
+#: includes/admin/views/html-booking-availability.php:31
+#: includes/admin/views/html-booking-availability.php:41
+#: includes/admin/views/html-booking-data.php:20
+#: includes/admin/views/html-booking-data.php:100
+#: includes/booking-form/class-wc-booking-form.php:124
+msgid "Month(s)"
+msgstr "Mes(os)"
+
+#: includes/admin/views/html-booking-availability.php:32
+#: includes/admin/views/html-booking-availability.php:42
+#: includes/booking-form/class-wc-booking-form.php:131
+#: includes/booking-form/class-wc-booking-form.php:143
+msgid "Week(s)"
+msgstr "Setmana(es)"
+
+#: includes/admin/views/html-booking-availability.php:33
+#: includes/admin/views/html-booking-availability.php:43
+#: includes/admin/views/html-booking-data.php:21
+#: includes/admin/views/html-booking-data.php:101
+#: includes/booking-form/class-wc-booking-form.php:139
+msgid "Day(s)"
+msgstr "Dia(es)"
+
+#: includes/admin/views/html-booking-availability.php:34
+#: includes/admin/views/html-booking-availability.php:44
+#: includes/admin/views/html-booking-data.php:22
+#: includes/admin/views/html-booking-data.php:102
+#: includes/booking-form/class-wc-booking-form.php:160
+msgid "Hour(s)"
+msgstr "Hora(es)"
+
+#: includes/admin/views/html-booking-availability.php:35
+#: includes/admin/views/html-booking-availability.php:45
+msgid "into the future"
+msgstr "en el futur"
+
+#: includes/admin/views/html-booking-availability.php:38
+msgid "Maximum block bookable"
+msgstr "Màxim bloc reservable"
+
+#: includes/admin/views/html-booking-availability.php:48
+msgid "Require a buffer period of"
+msgstr "Requereixen un decalatge intermig de"
+
+#: includes/admin/views/html-booking-availability.php:51
+msgid "between bookings"
+msgstr "entre reserves"
+
+#: includes/admin/views/html-booking-availability.php:59
+msgid "Adjacent Buffering?"
+msgstr "Decalatge adjacent?"
+
+#: includes/admin/views/html-booking-availability.php:60
+msgid ""
+"By default buffer period applies forward into the future of a booking. "
+"Enabling this option will apply adjacently (before and after Bookings)."
+msgstr ""
+"Per defecte el període de decalatge s'aplica cap endavant al futur d'una "
+"reserva. Si activeu aquesta opció, s'aplicarà de forma adjacent (abans i "
+"després de les reserves)."
+
+#: includes/admin/views/html-booking-availability.php:67
+msgid "All dates are..."
+msgstr "Totes les dates són..."
+
+#: includes/admin/views/html-booking-availability.php:71
+msgid "available by default"
+msgstr "disponibles per defecte"
+
+#: includes/admin/views/html-booking-availability.php:72
+msgid "not-available by default"
+msgstr "no disponibles per defecte"
+
+#: includes/admin/views/html-booking-availability.php:74
+msgid "This option affects how you use the rules below."
+msgstr "Aquesta opció afecta com utilitzar les regles següents."
+
+#: includes/admin/views/html-booking-availability.php:81
+msgid "Check rules against..."
+msgstr "Comproveu regles per..."
+
+#: includes/admin/views/html-booking-availability.php:85
+msgid "All blocks being booked"
+msgstr "Tots els blocs estan reservats"
+
+#: includes/admin/views/html-booking-availability.php:86
+msgid "The starting block only"
+msgstr "Només el bloc inicial"
+
+#: includes/admin/views/html-booking-availability.php:88
+msgid "This option affects how bookings are checked for availability."
+msgstr "Aquesta opció afecta com les reserves es comproven per disponibilitat."
+
+#: includes/admin/views/html-booking-availability.php:93
+msgid "First block starts at..."
+msgstr "Primer bloc comença a..."
+
+#: includes/admin/views/html-booking-availability.php:102
+msgid "Restrict start days?"
+msgstr "Restringir els dies d'inici?"
+
+#: includes/admin/views/html-booking-availability.php:103
+msgid ""
+"Restrict bookings so that they can only start on certain days of the week. "
+"Does not affect availability."
+msgstr ""
+"Restringiu les reserves perquè només puguin començar en determinats dies de "
+"la setmana. No afecta la disponibilitat."
+
+#: includes/admin/views/html-booking-data.php:13
+msgid "Booking duration"
+msgstr "Durada de la reserva"
+
+#: includes/admin/views/html-booking-data.php:15
+msgid "Fixed blocks of"
+msgstr "Blocs fixos de"
+
+#: includes/admin/views/html-booking-data.php:16
+msgid "Customer defined blocks of"
+msgstr "Blocs definits pel client de"
+
+#: includes/admin/views/html-booking-data.php:23
+#: includes/admin/views/html-booking-data.php:103
+#: includes/booking-form/class-wc-booking-form.php:167
+msgid "Minute(s)"
+msgstr "Minut(s)"
+
+#: includes/admin/views/html-booking-data.php:31
+msgid "Minimum duration"
+msgstr "Durada mínima"
+
+#: includes/admin/views/html-booking-data.php:32
+msgid "The minimum allowed duration the user can input."
+msgstr "La durada mínima permesa que l'usuari pot introduir."
+
+#: includes/admin/views/html-booking-data.php:44
+msgid "Maximum duration"
+msgstr "Durada màxima"
+
+#: includes/admin/views/html-booking-data.php:45
+msgid "The maximum allowed duration the user can input."
+msgstr "La durada màxima permesa que l'usuari pot introduir."
+
+#: includes/admin/views/html-booking-data.php:59
+msgid "Enable Calendar Range Picker?"
+msgstr "Habilitar el calendari selector d'intervals?"
+
+#: includes/admin/views/html-booking-data.php:60
+msgid ""
+"Lets the user select a start and end date on the calendar - duration will be "
+"calculated automatically."
+msgstr ""
+"Permet a l'usuari seleccionar una data d'inici i fi a calendari - la durada "
+"es calcula automàticament."
+
+#: includes/admin/views/html-booking-data.php:69
+msgid "Calendar display mode"
+msgstr "Mode de visualització del calendari"
+
+#: includes/admin/views/html-booking-data.php:70
+msgid "Choose how the calendar is displayed on the booking form."
+msgstr ""
+"Triar la manera com es visualitza el calendari del formulari de reserva."
+
+#: includes/admin/views/html-booking-data.php:72
+msgid "Display calendar on click"
+msgstr "Mostra el calendario al fer clic"
+
+#: includes/admin/views/html-booking-data.php:73
+msgid "Calendar always visible"
+msgstr "Calendari sempre visible"
+
+#: includes/admin/views/html-booking-data.php:82
+msgid "Requires confirmation?"
+msgstr "Requereix confirmació?"
+
+#: includes/admin/views/html-booking-data.php:83
+msgid ""
+"Check this box if the booking requires admin approval/confirmation. Payment "
+"will not be taken during checkout."
+msgstr ""
+"Marqueu aquesta casella si la reserva necessita aprovació / confirmació de "
+"l'administrador . El cobrament no s'efectuarà durant el procés de caixa."
+
+#: includes/admin/views/html-booking-data.php:89
+msgid "Can be cancelled?"
+msgstr "Pot ser cancel·lada?"
+
+#: includes/admin/views/html-booking-data.php:90
+msgid ""
+"Check this box if the booking can be cancelled by the customer after it has "
+"been purchased. A refund will not be sent automatically."
+msgstr ""
+"Activeu aquesta casella si la reserva es pot cancel·lar el client després "
+"que ha estat comprat. Una devolució no s'enviarà automàticament."
+
+#: includes/admin/views/html-booking-data.php:97
+msgid "Booking can be cancelled until"
+msgstr "La reserva es pot cancel·lar fins"
+
+#: includes/admin/views/html-booking-data.php:105
+msgid "before the start date."
+msgstr "abans de la data d'inici."
+
+#: includes/admin/views/html-booking-person.php:8
+msgid "Unlink"
+msgstr "Desenllaça"
+
+#: includes/admin/views/html-booking-person.php:9
+#: includes/admin/views/html-booking-resource.php:12
+msgid "Click to toggle"
+msgstr "Clica per alternar"
+
+#: includes/admin/views/html-booking-person.php:20
+msgid "Person Type Name"
+msgstr "Tipus de Persona"
+
+#: includes/admin/views/html-booking-person.php:24
+#: includes/admin/views/html-booking-resource.php:24
+msgid "Base Cost"
+msgstr "Cost base"
+
+#: includes/admin/views/html-booking-person.php:30
+#: includes/admin/views/html-booking-resource.php:29
+msgid "Block Cost"
+msgstr "Cost del bloc"
+
+#: includes/admin/views/html-booking-person.php:40
+msgid "Description"
+msgstr "Descripció"
+
+#: includes/admin/views/html-booking-person.php:44
+msgid "Min"
+msgstr "Mín"
+
+#: includes/admin/views/html-booking-person.php:48
+msgid "Max"
+msgstr "Màx"
+
+#: includes/admin/views/html-booking-persons.php:7
+msgid "Min persons"
+msgstr "Mín. persones"
+
+#: includes/admin/views/html-booking-persons.php:8
+msgid "The minimum number of persons per booking."
+msgstr "El nombre mínim de persones per reserva."
+
+#: includes/admin/views/html-booking-persons.php:20
+msgid "Max persons"
+msgstr "Màxim de persones"
+
+#: includes/admin/views/html-booking-persons.php:21
+msgid "The maximum number of persons per booking."
+msgstr "El nombre màxim de persones per reserva."
+
+#: includes/admin/views/html-booking-persons.php:33
+msgid "Multiply all costs by person count"
+msgstr "Multiplicar tots els costos per número de persones"
+
+#: includes/admin/views/html-booking-persons.php:34
+msgid ""
+"Enable this to multiply the entire cost of the booking (block and base "
+"costs) by the person count."
+msgstr ""
+"Habiliteu aquesta opció per multiplicar el cost total de l'estada (costos de "
+"bloc i de base) pel número de persones"
+
+#: includes/admin/views/html-booking-persons.php:41
+msgid "Count persons as bookings"
+msgstr "Comptar les persones com a reserves"
+
+#: includes/admin/views/html-booking-persons.php:42
+msgid ""
+"Enable this to count each person as a booking until the max bookings per "
+"block (in availability) is reached."
+msgstr ""
+"Habiliteu aquesta opció per comptar a cada persona com una reserva fins les "
+"reserves max per bloc (a dalt) s'assoleixin."
+
+#: includes/admin/views/html-booking-persons.php:49
+msgid "Enable person types"
+msgstr "Habilitar tipus de persona"
+
+#: includes/admin/views/html-booking-persons.php:50
+#: includes/admin/views/html-booking-persons.php:72
+msgid ""
+"Person types allow you to offer different booking costs for different types "
+"of individuals, for example, adults and children."
+msgstr ""
+"Els tipus persona li permeten oferir diferents costos de reserva per a "
+"diferents tipus de persones, per exemple, els adults i els nens."
+
+#: includes/admin/views/html-booking-persons.php:60
+msgid "Person types"
+msgstr "Tipus de persona"
+
+#: includes/admin/views/html-booking-persons.php:61
+#: includes/admin/views/html-booking-resources.php:33
+msgid "Close all"
+msgstr "Tancar tots"
+
+#: includes/admin/views/html-booking-persons.php:61
+#: includes/admin/views/html-booking-resources.php:33
+msgid "Expand all"
+msgstr "Obrir tots"
+
+#: includes/admin/views/html-booking-persons.php:89
+msgid "Add Person Type"
+msgstr "Afegir tipus de persona"
+
+#: includes/admin/views/html-booking-pricing-fields.php:63
+msgid "Time Range"
+msgstr "Interval de temps"
+
+#: includes/admin/views/html-booking-pricing-fields.php:64
+msgid "Person count"
+msgstr "Número de persones"
+
+#: includes/admin/views/html-booking-pricing-fields.php:65
+msgid "Block count"
+msgstr "Número de blocs"
+
+#: includes/admin/views/html-booking-pricing.php:6
+#: includes/admin/views/html-booking-pricing.php:59
+msgid "Base cost"
+msgstr "Cost base"
+
+#: includes/admin/views/html-booking-pricing.php:7
+msgid "One-off cost for the booking as a whole."
+msgstr "Cost d'una sola vegada de la reserva en el seu conjunt."
+
+#: includes/admin/views/html-booking-pricing.php:21
+#: includes/admin/views/html-booking-pricing.php:60
+msgid "Block cost"
+msgstr "Cost del bloc"
+
+#: includes/admin/views/html-booking-pricing.php:22
+msgid ""
+"This is the cost per block booked. All other costs (for resources and "
+"persons) are added to this."
+msgstr ""
+"Aquest és el cost per bloc reservat. Totes les altres despeses (per recursos "
+"i persones) s'afegeixen a aquest."
+
+#: includes/admin/views/html-booking-pricing.php:36
+msgid "Display cost"
+msgstr "Cost visible"
+
+#: includes/admin/views/html-booking-pricing.php:37
+msgid ""
+"The cost is displayed to the user on the frontend. Leave blank to have it "
+"calculated for you. If a booking has varying costs, this will be prefixed "
+"with the word \"from:\"."
+msgstr ""
+"El cost que es mostra a l'usuari en la fitxa de producte. Deixar en blanc "
+"perquè es calculí per vosté. Si la reserva té diferents costos, això serà "
+"precedit de la paraula \"Des de:\"."
+
+#: includes/admin/views/html-booking-pricing.php:59
+msgid "Enter a cost for this rule. Applied to the booking as a whole."
+msgstr ""
+"Introduïu un cost per a aquesta regla. Aplicat a la reserva com addicional."
+
+#: includes/admin/views/html-booking-pricing.php:60
+msgid "Enter a cost for this rule. Applied to each booking block."
+msgstr "Introduïu un cost per a aquesta regla. Aplicar a cada bloc de reserva."
+
+#: includes/admin/views/html-booking-pricing.php:73
+msgid "All matching rules will be applied to the booking."
+msgstr "Totes les regles coincidents s'aplicaran a la reserva."
+
+#: includes/admin/views/html-booking-resource.php:8
+msgid "Remove"
+msgstr "Suprimeix"
+
+#: includes/admin/views/html-booking-resource.php:10
+msgid "Edit resource"
+msgstr "Editar recurs"
+
+#: includes/admin/views/html-booking-resources.php:7
+#: includes/booking-form/class-wc-booking-form.php:263
+#: includes/wc-bookings-functions.php:726
+msgid "Type"
+msgstr "Tipus"
+
+#: includes/admin/views/html-booking-resources.php:8
+msgid "Label"
+msgstr "Etiqueta"
+
+#: includes/admin/views/html-booking-resources.php:11
+msgid "The label shown on the frontend if the resource is customer defined."
+msgstr "L'etiqueta mostra en el frontal si el recurs és definit pel client."
+
+#: includes/admin/views/html-booking-resources.php:16
+msgid "Resources are..."
+msgstr "Els recursos són..."
+
+#: includes/admin/views/html-booking-resources.php:21
+msgid "Customer selected"
+msgstr "Seleccionats pel client"
+
+#: includes/admin/views/html-booking-resources.php:22
+msgid "Automatically assigned"
+msgstr "Assignats automàticament"
+
+#: includes/admin/views/html-booking-resources.php:24
+msgid ""
+"Customer selected resources allow customers to choose one from the booking "
+"form."
+msgstr ""
+"Els recursos seleccionats pel client permeten als clients triar-ne un en fer "
+"la reserva."
+
+#: includes/admin/views/html-booking-resources.php:39
+msgid ""
+"Resources are used if you have multiple bookable items, e.g. room types, "
+"instructors or ticket types. Availability for resources is global across all "
+"bookable products."
+msgstr ""
+"Els recursos són utilitzats si té elements múltiples reservables, per "
+"exemple, tipus d'habitacions, instructors o tipus de bitllets. La "
+"disponibilitat dels recursos son globals en tots els productes reservables."
+
+#: includes/admin/views/html-booking-resources.php:65
+msgid "Add/link Resource"
+msgstr "Afegir/enllaçar recurs"
+
+#: includes/admin/views/html-booking-resources.php:67
+msgid "New resource"
+msgstr "Nou recurs"
+
+#: includes/admin/views/html-booking-resources.php:79
+msgid "Manage Resources"
+msgstr "Gestionar recursos"
+
+#: includes/admin/views/html-calendar-day.php:2
+msgid "Bookings by day"
+msgstr "Reserves per dia"
+
+#: includes/admin/views/html-calendar-day.php:12
+#: includes/admin/views/html-calendar-month.php:13
+msgid "Filter Bookings"
+msgstr "Filtrar les reserves"
+
+#: includes/admin/views/html-calendar-day.php:14
+#: includes/admin/views/html-calendar-month.php:15
+msgid "By bookable product"
+msgstr "Per producte reservable"
+
+#: includes/admin/views/html-calendar-day.php:21
+#: includes/admin/views/html-calendar-month.php:22
+msgid "By resource"
+msgstr "Per recurs"
+
+#: includes/admin/views/html-calendar-day.php:37
+msgid "Month View"
+msgstr "Vista mensual"
+
+#: includes/admin/views/html-calendar-month.php:2
+msgid "Bookings by month"
+msgstr "Reserves per mes"
+
+#: includes/admin/views/html-calendar-month.php:49
+msgid "Day View"
+msgstr "Vista per dia"
+
+#: includes/admin/views/html-create-booking-page-2.php:12
+msgid "Booking Data"
+msgstr "Dades de la reserva"
+
+#: includes/admin/views/html-create-booking-page.php:5
+msgid ""
+"You can create a new booking for a customer here. This form will create a "
+"booking for the user, and optionally an associated order. Created orders "
+"will be marked as pending payment."
+msgstr ""
+"Podeu crear una nova reserva per a un client aquí. Aquest formulari crearà "
+"una reserva per a l'usuari, i opcionalment una comanda associada. Les "
+"comandes creades seran marcades com a pendents de pagament."
+
+#: includes/admin/views/html-create-booking-page.php:14
+msgid "Customer"
+msgstr "Client"
+
+#: includes/admin/views/html-create-booking-page.php:27
+msgid "Bookable Product"
+msgstr "Producte reservable"
+
+#: includes/admin/views/html-create-booking-page.php:31
+msgid "Select a bookable product..."
+msgstr "Seleccioneu un producte reservable..."
+
+#: includes/admin/views/html-create-booking-page.php:40
+msgid "Create Order"
+msgstr "Crear comanda"
+
+#: includes/admin/views/html-create-booking-page.php:46
+msgid ""
+"Create a new corresponding order for this new booking. Please note - the "
+"booking will not be active until the order is processed/completed."
+msgstr ""
+"Crear una nova comanda corresponent per a aquesta nova reserva. Tingueu en "
+"compte - la reserva no estarà activa fins que la comanda es processi / "
+"completi."
+
+#: includes/admin/views/html-create-booking-page.php:52
+msgid "Assign this booking to an existing order with this ID:"
+msgstr "Assigneu aquesta reserva a una comanda existent amb aquesta ID:"
+
+#: includes/admin/views/html-create-booking-page.php:59
+msgid "Don't create an order for this booking."
+msgstr "No crear una comanda d'aquesta reserva."
+
+#: includes/admin/views/html-create-booking-page.php:68
+#: includes/booking-form/class-wc-booking-form.php:39
+msgid "Next"
+msgstr "Següent"
+
+#: includes/admin/views/html-global-availability-settings.php:49
+msgid "Settings saved"
+msgstr "Configuració guardada"
+
+#: includes/admin/views/html-global-availability-settings.php:57
+msgid "Global availability"
+msgstr "Disponibilitat global"
+
+#: includes/admin/views/html-global-availability-settings.php:59
+msgid ""
+"The availability rules you define here will affect all bookable products in "
+"your store."
+msgstr ""
+"Les regles sobre la disponibilitat que defineixi aquí afectaran tots els "
+"productes que es poden reservar a la seva botiga."
+
+#: includes/admin/views/html-global-availability-settings.php:103
+msgid "Save Changes"
+msgstr "Guardar els canvis"
+
+#: includes/admin/views/html-notifications-page.php:4
+msgid ""
+"You may send an email notification to all customers who have a %sfuture%s "
+"booking for a particular product. This will use the default template "
+"specified under %sWooCommerce > Settings > Emails%s."
+msgstr ""
+"Pot enviar una notificació per correu electrònic a tots els usuaris que "
+"tenen reserves %sfutures%s per a un determinat producte. S'utilitzarà la "
+"plantilla per defecte especificat a %sWooCommerce > Settings > Emails%s."
+
+#: includes/admin/views/html-notifications-page.php:11
+msgid "Booking Product"
+msgstr "Producte reservable"
+
+#: includes/admin/views/html-notifications-page.php:15
+msgid "Select a booking product..."
+msgstr "Seleccioneu un producte a reservar..."
+
+#: includes/admin/views/html-notifications-page.php:24
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:167
+#: includes/emails/class-wc-email-booking-cancelled.php:159
+#: includes/emails/class-wc-email-booking-confirmed.php:177
+#: includes/emails/class-wc-email-booking-reminder.php:142
+#: includes/emails/class-wc-email-new-booking.php:199
+msgid "Subject"
+msgstr "Assumpte"
+
+#: includes/admin/views/html-notifications-page.php:27
+msgid "Email subject"
+msgstr "Assumpte del correu electrònic"
+
+#: includes/admin/views/html-notifications-page.php:32
+msgid "Message"
+msgstr "MIssatge"
+
+#: includes/admin/views/html-notifications-page.php:35
+msgid "The message you wish to send"
+msgstr "El missatge que volgueu enviar"
+
+#: includes/admin/views/html-notifications-page.php:36
+msgid ""
+"The following tags can be inserted in your message/subject and will be "
+"replaced dynamically"
+msgstr ""
+"Les següents etiquetes es poden inserir en el seu assumpte i es canviarà "
+"dinàmicament"
+
+#: includes/admin/views/html-notifications-page.php:41
+msgid "Attachment"
+msgstr "Fitxer adjunt"
+
+#: includes/admin/views/html-notifications-page.php:44
+msgid "Attach <code>.ics</code> file"
+msgstr "Adjuntar fitxer <code>.ics</code>"
+
+#: includes/booking-form/class-wc-booking-form-date-picker.php:37
+#: includes/booking-form/class-wc-booking-form-datetime-picker.php:30
+msgid "Date"
+msgstr "Data"
+
+#: includes/booking-form/class-wc-booking-form-month-picker.php:29
+#: templates/booking-form/date-picker.php:24
+#: templates/booking-form/date-picker.php:35
+#: templates/booking-form/date-picker.php:49
+#: templates/booking-form/date-picker.php:60
+#: templates/booking-form/datetime-picker.php:19
+#: templates/booking-form/datetime-picker.php:30
+msgid "Month"
+msgstr "Mes"
+
+#: includes/booking-form/class-wc-booking-form-picker.php:18
+msgid "Start %s"
+msgstr "Comença %s"
+
+#: includes/booking-form/class-wc-booking-form.php:36
+msgid "Close"
+msgstr "Tancar"
+
+#: includes/booking-form/class-wc-booking-form.php:37
+msgid "Today"
+msgstr "Avui"
+
+#: includes/booking-form/class-wc-booking-form.php:38
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/booking-form/class-wc-booking-form.php:76
+msgid "This date is unavailable"
+msgstr "Aquesta data no està disponible"
+
+#: includes/booking-form/class-wc-booking-form.php:77
+msgid "This date is fully booked and unavailable"
+msgstr "Aquesta data està completa i no disponible"
+
+#: includes/booking-form/class-wc-booking-form.php:78
+msgid "This date is partially booked - but bookings still remain"
+msgstr ""
+"Aquesta data està parcialment reservada - però encara n'hi ha disponibles"
+
+#: includes/booking-form/class-wc-booking-form.php:79
+msgid "This date is available"
+msgstr "Aquesta data està disponible"
+
+#: includes/booking-form/class-wc-booking-form.php:80
+msgid "Choose a Start Date"
+msgstr "Trieu una data d'inici"
+
+#: includes/booking-form/class-wc-booking-form.php:81
+msgid "Choose an End Date"
+msgstr "Trieu una data de finalització"
+
+#: includes/booking-form/class-wc-booking-form.php:82
+msgid "Dates"
+msgstr "Dates"
+
+#: includes/booking-form/class-wc-booking-form.php:83
+msgid "Please select the options for your booking above first"
+msgstr "Seleccioneu primer les opcions de la vostra reserva"
+
+#: includes/booking-form/class-wc-booking-form.php:122
+msgid "&times; %s Months"
+msgstr "&times; %s Mesos"
+
+#: includes/booking-form/class-wc-booking-form.php:129
+#: includes/booking-form/class-wc-booking-form.php:145
+msgid "&times; %s weeks"
+msgstr "&times; %s setmanes"
+
+#: includes/booking-form/class-wc-booking-form.php:137
+msgid "&times; %s days"
+msgstr "&times; %s dies"
+
+#: includes/booking-form/class-wc-booking-form.php:151
+msgid "&times; %s nights"
+msgstr "&times; %s nits"
+
+#: includes/booking-form/class-wc-booking-form.php:153
+msgid "Night(s)"
+msgstr "Nit(s)"
+
+#: includes/booking-form/class-wc-booking-form.php:158
+msgid "&times; %s hours"
+msgstr "&times; %s hores"
+
+#: includes/booking-form/class-wc-booking-form.php:165
+msgid "&times; %s minutes"
+msgstr "&times; %s minuts"
+
+#: includes/booking-form/class-wc-booking-form.php:175
+#: includes/wc-bookings-functions.php:130
+msgid "Duration"
+msgstr "Durada"
+
+#: includes/booking-form/class-wc-booking-form.php:249
+msgid "block"
+msgstr "bloc"
+
+#: includes/booking-form/class-wc-booking-form.php:251
+msgid "+%1$1s per %2$2s"
+msgstr "+%1$1s per %2$2s"
+
+#: includes/booking-form/class-wc-booking-form.php:428
+msgid "month"
+msgid_plural "months"
+msgstr[0] "mes"
+msgstr[1] ""
+
+#: includes/booking-form/class-wc-booking-form.php:432
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dia"
+msgstr[1] ""
+
+#: includes/booking-form/class-wc-booking-form.php:435
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "setmana"
+msgstr[1] ""
+
+#: includes/booking-form/class-wc-booking-form.php:439
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "hora"
+msgstr[1] ""
+
+#: includes/booking-form/class-wc-booking-form.php:442
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minut"
+msgstr[1] ""
+
+#: includes/booking-form/class-wc-booking-form.php:445
+msgid "night"
+msgid_plural "nights"
+msgstr[0] "nit"
+msgstr[1] ""
+
+#: includes/booking-form/class-wc-booking-form.php:502
+msgid "Please choose a resource type"
+msgstr "Si us plau, trieu un tipus de recurs"
+
+#: includes/booking-form/class-wc-booking-form.php:513
+msgid "Duration is required - please enter a duration greater than zero above"
+msgstr ""
+"Es requereix durada - si us plau introdueixi una durada superior a zero a "
+"dalt"
+
+#: includes/booking-form/class-wc-booking-form.php:516
+msgid "The maximum duration is %d"
+msgstr "La durada màxima és de %d"
+
+#: includes/booking-form/class-wc-booking-form.php:519
+msgid "The minimum duration is %d"
+msgstr "La durada mínima és de %d"
+
+#: includes/booking-form/class-wc-booking-form.php:525
+msgid "Date is required - please choose one above"
+msgstr "Es requereix la data - si us plau triï'n una a sobre"
+
+#: includes/booking-form/class-wc-booking-form.php:528
+msgid "Time is required - please choose one above"
+msgstr "Es requereix una hora - si us plau triï'n una a sobre"
+
+#: includes/booking-form/class-wc-booking-form.php:531
+#: includes/booking-form/class-wc-booking-form.php:534
+msgid "You must choose a future date and time."
+msgstr "Heu de triar una data i hora futures."
+
+#: includes/booking-form/class-wc-booking-form.php:549
+msgid "The earliest booking possible is currently %s."
+msgstr "La primera reserva possible és actualment %s."
+
+#: includes/booking-form/class-wc-booking-form.php:555
+msgid "The latest booking possible is currently %s."
+msgstr "L'última reserva possible és actualment %s."
+
+#: includes/booking-form/class-wc-booking-form.php:564
+msgid "Sorry, bookings cannot start on this day."
+msgstr "Ho sentim, les reserves no poden començar en aquest dia."
+
+#: includes/booking-form/class-wc-booking-form.php:573
+msgid "Persons are required - please enter the number of persons above"
+msgstr ""
+"Es requereixen persones - si us plau introduïu el nombre de persones a sobre"
+
+#: includes/booking-form/class-wc-booking-form.php:576
+msgid "The maximum persons per group is %d"
+msgstr "El màxim de persones per grup és %d"
+
+#: includes/booking-form/class-wc-booking-form.php:579
+msgid "The minimum persons per group is %d"
+msgstr "El mínim de persones per grup és %d"
+
+#: includes/booking-form/class-wc-booking-form.php:587
+msgid "The maximum %1$s per group is %2$d"
+msgstr "El màxim %1$s per grup és de %2$d"
+
+#: includes/booking-form/class-wc-booking-form.php:592
+msgid "The minimum %1$s per group is %2$d"
+msgstr "El mínim %1$s per grup és de %2$d"
+
+#: includes/booking-form/class-wc-booking-form.php:608
+msgid "Sorry, the selected block is not available"
+msgstr "Ho sentim, que el bloc seleccionat no està disponible"
+
+#: includes/booking-form/class-wc-booking-form.php:727
+msgid "The duration of this booking must be at least %s days."
+msgstr "La durada d'aquesta reserva ha de ser al menys %s dies."
+
+#: includes/class-wc-booking-cart-manager.php:233
+msgid "A booking for %s has been removed from your cart due to inactivity."
+msgstr "Una reserva per %s s'ha tret de la cistella per inactivitat."
+
+#: includes/class-wc-booking-cart-manager.php:422
+msgid ""
+"A booking that requires confirmation has been removed from your cart. It is "
+"not possible to complete the purchased along with a booking that doesn't "
+"require confirmation."
+msgstr ""
+"Una reserva que requereix confirmació s'ha tret de la cistella. No és "
+"possible completar la compra juntament amb una reserva que no requereix "
+"confirmació."
+
+#: includes/class-wc-booking-coupon.php:43
+msgid "Booking Person Discount (Amount Off Per Person)"
+msgstr "Descompte reserva per persona (quantitat per persona)"
+
+#: includes/class-wc-booking-form-handler.php:38
+msgid "Your booking was cancelled."
+msgstr "La seva reserva ha estat cancel·lada."
+
+#: includes/class-wc-booking-form-handler.php:42
+msgid ""
+"Your booking can no longer be cancelled. Please contact us if you need "
+"assistance."
+msgstr ""
+"La seva reserva no pot ser cancel·lada. Si us plau, poseu-vos en contacte "
+"amb nosaltres si necessita ajuda."
+
+#: includes/class-wc-booking-form-handler.php:44
+#: includes/data-stores/class-wc-booking-data-store.php:81
+msgid "Invalid booking."
+msgstr "Reserva no vàlida."
+
+#: includes/class-wc-booking-order-manager.php:223
+msgid "Upcoming Bookings"
+msgstr "Properes reserves"
+
+#: includes/class-wc-booking-order-manager.php:229
+msgid "Past Bookings"
+msgstr "Reserves passades"
+
+#: includes/class-wc-bookings-ics-exporter.php:165
+msgid "Bookings from %s"
+msgstr "Reserves de %s"
+
+#: includes/class-wc-bookings-ics-exporter.php:186
+msgid "%1$s: %2$d"
+msgstr "%1$s: %2$d"
+
+#: includes/class-wc-bookings-ics-exporter.php:195
+msgid "Booking description:"
+msgstr "Descripció de la reserva:"
+
+#: includes/compatibility/class-wc-data-store.php:75
+#: includes/compatibility/class-wc-data-store.php:80
+msgid "Invalid data store."
+msgstr "Dades no vàlides."
+
+#: includes/compatibility/class-wc-product-data-store-cpt.php:81
+#: includes/data-stores/class-wc-product-booking-data-store-cpt.php:103
+#: templates/emails/customer-booking-confirmed.php:82
+msgid "Product"
+msgstr "Producte"
+
+#: includes/compatibility/class-wc-product-data-store-cpt.php:117
+msgid "Invalid product."
+msgstr "Producte no vàlid."
+
+#: includes/data-objects/class-wc-booking.php:183
+#: includes/data-objects/class-wc-booking.php:904
+msgid "Was In Cart"
+msgstr "Va estar al carro"
+
+#: includes/data-objects/class-wc-booking.php:238
+msgid "Booking #%1$d status changed from \"%2$s\" to \"%3$s\""
+msgstr "Reserva #%1$d canviarà l'estat  de \"%2$s\" a \"%3$s\""
+
+#: includes/data-objects/class-wc-product-booking.php:89
+msgid "Check Availability"
+msgstr "Veure disponibilitat"
+
+#: includes/data-objects/class-wc-product-booking.php:89
+msgid "Book now"
+msgstr "Reservar"
+
+#: includes/data-objects/class-wc-product-booking.php:134
+msgid "From: %s"
+msgstr "Des de: %s"
+
+#: includes/data-objects/class-wc-product-booking.php:139
+msgid "Free"
+msgstr "Gratuït"
+
+#: includes/data-objects/class-wc-product-booking.php:1509
+msgid "There is a maximum of %d place remaining"
+msgid_plural "There are a maximum of %d places remaining"
+msgstr[0] "Hi ha un màxim de %d plaçes disponibles"
+msgstr[1] "Hi ha un màxim de %d plaçes disponibles"
+
+#: includes/data-objects/class-wc-product-booking.php:1514
+#: includes/data-objects/class-wc-product-booking.php:1520
+msgid "There is a maximum of %1$d place remaining on %2$s"
+msgid_plural "There are a maximum of %1$d places remaining on %2$s"
+msgstr[0] "Hi ha un màxim de %1$d plaçes disponibles %2$s"
+msgstr[1] "Hi ha un màxim de %1$d plaçes disponibles %2$s"
+
+#: includes/data-objects/class-wc-product-booking.php:2059
+msgid "This block cannot be booked."
+msgstr "Aquest bloc no es pot reservar."
+
+#: includes/data-stores/class-wc-booking-data-store.php:55
+msgid "Booking &ndash; %s"
+msgstr "Reserva &ndash; %s"
+
+#: includes/data-stores/class-wc-product-booking-person-type-data-store-cpt.php:18
+#: includes/data-stores/class-wc-product-booking-person-type-data-store-cpt.php:75
+msgid "Person Type #%d"
+msgstr "Tipus de Persona #%d"
+
+#: includes/data-stores/class-wc-product-booking-person-type-data-store-cpt.php:51
+msgid "Invalid booking person type."
+msgstr "Tipus de persona no vàlida."
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:22
+msgid "Admin Booking Cancelled"
+msgstr "Reserva Cancelada"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:23
+#: includes/emails/class-wc-email-booking-cancelled.php:23
+msgid ""
+"Booking cancelled emails are sent when the status of a booking goes to "
+"cancelled."
+msgstr ""
+"Els correus electrònics de les reserves cancel·lades son enviats quan "
+"l'estat de la reserva es posa com a cancel·lat."
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:24
+#: includes/emails/class-wc-email-booking-cancelled.php:22
+#: includes/emails/class-wc-email-booking-cancelled.php:25
+msgid "Booking Cancelled"
+msgstr "Reserva Cancelada"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:25
+msgid "[{blogname}] A booking of \"{product_title}\" has been cancelled"
+msgstr ""
+"[{blogname}] La teva reserva de \"{product_title}\" ha estat cancelada."
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:154
+#: includes/emails/class-wc-email-booking-cancelled.php:153
+#: includes/emails/class-wc-email-booking-confirmed.php:171
+#: includes/emails/class-wc-email-booking-notification.php:192
+#: includes/emails/class-wc-email-booking-reminder.php:136
+#: includes/emails/class-wc-email-new-booking.php:186
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:156
+#: includes/emails/class-wc-email-booking-cancelled.php:155
+#: includes/emails/class-wc-email-booking-confirmed.php:173
+#: includes/emails/class-wc-email-booking-notification.php:194
+#: includes/emails/class-wc-email-booking-reminder.php:138
+#: includes/emails/class-wc-email-new-booking.php:188
+msgid "Enable this email notification"
+msgstr "Activa aquesta notificació de correu"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:160
+#: includes/emails/class-wc-email-new-booking.php:192
+msgid "Recipient(s)"
+msgstr "Destinatari(s)"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:162
+#: includes/emails/class-wc-email-new-booking.php:194
+msgid ""
+"Enter recipients (comma separated) for this email. Defaults to <code>%s</"
+"code>."
+msgstr ""
+"Escriviu els destinataris (separats per comes) d'aquest correu. Per defecte: "
+"<code>%s</code>."
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:169
+#: includes/emails/class-wc-email-booking-cancelled.php:161
+#: includes/emails/class-wc-email-booking-confirmed.php:179
+#: includes/emails/class-wc-email-booking-reminder.php:144
+#: includes/emails/class-wc-email-new-booking.php:201
+msgid ""
+"This controls the email subject line. Leave blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+"Això controla la línia d'assumpte del correu electrònic. Deixar en blanc per "
+"a utilitzar el valor per defecte: <code>%s</code>."
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:174
+#: includes/emails/class-wc-email-booking-cancelled.php:166
+#: includes/emails/class-wc-email-booking-confirmed.php:184
+#: includes/emails/class-wc-email-booking-reminder.php:149
+#: includes/emails/class-wc-email-new-booking.php:213
+msgid "Email Heading"
+msgstr "Capçalera del correu electrònic"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:176
+#: includes/emails/class-wc-email-booking-cancelled.php:168
+#: includes/emails/class-wc-email-booking-confirmed.php:186
+#: includes/emails/class-wc-email-booking-reminder.php:151
+#: includes/emails/class-wc-email-new-booking.php:215
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Això controla la capçalera principal que conté la notificació per correu "
+"electrònic. Deixar en blanc per utilitzar la capçalera per defecte: <code>"
+"%s</code>."
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:181
+#: includes/emails/class-wc-email-booking-cancelled.php:173
+#: includes/emails/class-wc-email-booking-confirmed.php:191
+#: includes/emails/class-wc-email-booking-notification.php:198
+#: includes/emails/class-wc-email-booking-reminder.php:156
+#: includes/emails/class-wc-email-new-booking.php:227
+msgid "Email type"
+msgstr "Tipus de correu"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:183
+#: includes/emails/class-wc-email-booking-cancelled.php:175
+#: includes/emails/class-wc-email-booking-confirmed.php:193
+#: includes/emails/class-wc-email-booking-notification.php:200
+#: includes/emails/class-wc-email-booking-reminder.php:158
+#: includes/emails/class-wc-email-new-booking.php:229
+msgid "Choose which format of email to send."
+msgstr "Trieu el format de correu electrònic per enviar."
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:187
+#: includes/emails/class-wc-email-booking-cancelled.php:179
+#: includes/emails/class-wc-email-booking-confirmed.php:197
+#: includes/emails/class-wc-email-booking-notification.php:204
+#: includes/emails/class-wc-email-booking-reminder.php:162
+#: includes/emails/class-wc-email-new-booking.php:233
+msgid "Plain text"
+msgstr "Text sense format"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:188
+#: includes/emails/class-wc-email-booking-cancelled.php:180
+#: includes/emails/class-wc-email-booking-confirmed.php:198
+#: includes/emails/class-wc-email-booking-notification.php:205
+#: includes/emails/class-wc-email-booking-reminder.php:163
+#: includes/emails/class-wc-email-new-booking.php:234
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/emails/class-wc-email-admin-booking-cancelled.php:189
+#: includes/emails/class-wc-email-booking-cancelled.php:181
+#: includes/emails/class-wc-email-booking-confirmed.php:199
+#: includes/emails/class-wc-email-booking-notification.php:206
+#: includes/emails/class-wc-email-booking-reminder.php:164
+#: includes/emails/class-wc-email-new-booking.php:235
+msgid "Multipart"
+msgstr "Multipart"
+
+#: includes/emails/class-wc-email-booking-cancelled.php:26
+msgid "[{blogname}] Your booking of \"{product_title}\" has been cancelled"
+msgstr ""
+"[{blogname}] La teva reserva de \"{product_title}\" ha estat cancelada."
+
+#: includes/emails/class-wc-email-booking-confirmed.php:23
+#: includes/emails/class-wc-email-booking-confirmed.php:25
+msgid "Booking Confirmed"
+msgstr "S’ha confirmat la vostra reserva."
+
+#: includes/emails/class-wc-email-booking-confirmed.php:24
+msgid ""
+"Booking confirmed emails are sent when the status of a booking goes to "
+"confirmed."
+msgstr ""
+"Els correus electrònics de les reserves confirmades son enviats quan l'estat "
+"de la reserva es posa com a confirmada."
+
+#: includes/emails/class-wc-email-booking-confirmed.php:26
+msgid ""
+"[{blogname}] Your booking of \"{product_title}\" has been confirmed (Order "
+"{order_number}) - {order_date}"
+msgstr ""
+"[{blogname}] La teva reserva de \"{product_title}\" ha estat confirmada "
+"(Order {order_number}) - {order_date}"
+
+#: includes/emails/class-wc-email-booking-notification.php:23
+msgid "Booking Notification"
+msgstr "Notificació de Reserva"
+
+#: includes/emails/class-wc-email-booking-notification.php:24
+msgid ""
+"Booking notification emails are sent manually from WooCommerce > Bookings > "
+"Send Notification."
+msgstr ""
+"Els correus electrònics de notificació de reserva son enviats manualment des "
+"de WooCommerce > Reserves > Enviar notificació"
+
+#: includes/emails/class-wc-email-booking-reminder.php:22
+#: includes/emails/class-wc-email-booking-reminder.php:25
+msgid "Booking Reminder"
+msgstr "Recordatori de reserva"
+
+#: includes/emails/class-wc-email-booking-reminder.php:23
+msgid ""
+"Booking reminders are sent to the customer to remind them of an upcoming "
+"booking."
+msgstr ""
+"Recordatoris de reserva s'envien al client per recordar una propera reserva."
+
+#: includes/emails/class-wc-email-booking-reminder.php:26
+msgid "[{blogname}] A reminder about your booking of \"{product_title}\""
+msgstr "[{blogname}] Recordatori sobre la vostra reserva \"{product_title}\""
+
+#: includes/emails/class-wc-email-new-booking.php:29
+#: woocommerce-bookings.php:378
+msgid "New Booking"
+msgstr "Nova reserva"
+
+#: includes/emails/class-wc-email-new-booking.php:30
+msgid ""
+"New booking emails are sent to the admin when a new booking is created and "
+"paid. This email is also received when a Pending confirmation booking is "
+"created."
+msgstr ""
+"Els correus electrònics de noves reserves son enviats a l'administrador quan "
+"es crea una nova reserva. Aquests correus també es reben quan es crea una "
+"reserva pendent de confirmació."
+
+#: includes/emails/class-wc-email-new-booking.php:32
+msgid "New booking"
+msgstr "Nova reserva"
+
+#: includes/emails/class-wc-email-new-booking.php:33
+#: templates/order/admin/booking-display.php:39
+msgid "Confirm booking"
+msgstr "Confirmar la reserva"
+
+#: includes/emails/class-wc-email-new-booking.php:34
+msgid ""
+"[{blogname}] New booking for {product_title} (Order {order_number}) - "
+"{order_date}"
+msgstr ""
+"[{blogname}] Nova reserva per {product_title} (Order {order_number}) - "
+"{order_date}"
+
+#: includes/emails/class-wc-email-new-booking.php:35
+msgid ""
+"[{blogname}] A new booking for {product_title} (Order {order_number}) is "
+"awaiting your approval - {order_date}"
+msgstr ""
+"[{nom del Blog}] Una nova reserva per a {product_title} (ordre "
+"{order_number}) està esperant la seva aprovació - {order_date}"
+
+#: includes/emails/class-wc-email-new-booking.php:206
+msgid "Subject (Pending confirmation)"
+msgstr "Assumpte (pendent de confirmació)"
+
+#: includes/emails/class-wc-email-new-booking.php:208
+msgid ""
+"This controls the email subject line for Pending confirmation bookings. "
+"Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+"Això controla la línia d'assumpte del correu electrònic. Deixar en blanc per "
+"a utilitzar el valor per defecte: <code>%s</code>."
+
+#: includes/emails/class-wc-email-new-booking.php:220
+msgid "Email Heading (Pending confirmation)"
+msgstr "Capçalera del correu electrònic (pendent de confirmació)"
+
+#: includes/emails/class-wc-email-new-booking.php:222
+msgid ""
+"This controls the main heading contained within the email notification for "
+"Pending confirmation bookings. Leave blank to use the default heading: <code>"
+"%s</code>."
+msgstr ""
+"Això controla la capçalera principal que conté la notificació per correu "
+"electrònic. Deixar en blanc per utilitzar la capçalera per defecte: <code>"
+"%s</code>."
+
+#: includes/gateways/class-wc-bookings-gateway.php:18
+msgid "Check booking availability"
+msgstr "Comprova disponibilitat reserva"
+
+#: includes/gateways/class-wc-bookings-gateway.php:20
+msgid "Request Confirmation"
+msgstr "Sol·licitud de confirmació"
+
+#: includes/gateways/class-wc-bookings-gateway.php:29
+msgid "Settings"
+msgstr "Configuració"
+
+#: includes/gateways/class-wc-bookings-gateway.php:33
+msgid ""
+"This is fictitious payment method used for bookings that requires "
+"confirmation."
+msgstr ""
+"Això és fictici modalitat de pagament per a les reserves que exigeix "
+"confirmació."
+
+#: includes/gateways/class-wc-bookings-gateway.php:34
+msgid "This gateway requires no configuration."
+msgstr "Aquesta passarel·la no requereix cap configuració."
+
+#: includes/gateways/class-wc-bookings-gateway.php:68
+msgid "This order is awaiting confirmation from the shop manager"
+msgstr "Aquesta reserva està a l'espera de confirmació"
+
+#: includes/gateways/class-wc-bookings-gateway.php:87
+msgid "Your booking has been confirmed. Thank you."
+msgstr "S'ha confirmat la vostra reserva. Gràcies."
+
+#: includes/gateways/class-wc-bookings-gateway.php:89
+msgid ""
+"Your booking is awaiting confirmation. You will be notified by email as soon "
+"as we've confirmed availability."
+msgstr ""
+"La seva reserva està a l'espera de confirmació. Se li notificarà per correu "
+"electrònic tan aviat com haguem confirmat la disponibilitat."
+
+#: includes/integrations/class-wc-bookings-addons.php:51
+msgid "Bookings: Multiply cost by person count"
+msgstr "Reserves: Multiplicar el cost pel recompte de persones"
+
+#: includes/integrations/class-wc-bookings-addons.php:55
+msgid "Bookings: Multiply cost by block count"
+msgstr "Reserves: Multiplicar el cost pel recompte de blocs"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:17
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:417
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:419
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:425
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:427
+msgid "Google Calendar"
+msgstr "Calendari de Google"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:18
+msgid "WooCommerce Bookings - Google Calendar integration."
+msgstr "WooCommerce Bookings - Integració amb Google Calendar."
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:88
+msgid "Client ID"
+msgstr "ID de client"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:90
+msgid "Enter with your Google Client ID."
+msgstr "Entrar amb el seu ID de client de Google."
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:95
+msgid "Client Secret"
+msgstr "Secret de client"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:97
+msgid "Enter with your Google Client Secret."
+msgstr "Entrar amb el seu Secret de client de Google."
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:102
+msgid "Calendar ID"
+msgstr "ID de calendari"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:104
+msgid "Enter with your Calendar ID."
+msgstr "Entrar amb el seu ID de calendari."
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:109
+msgid "Authorization"
+msgstr "Autorització"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:113
+msgid "Testing"
+msgstr "Proves"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:118
+msgid "Debug Log"
+msgstr "Registre de depuració"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:120
+msgid "Enable logging"
+msgstr "Activar el registre"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:122
+msgid "Log Google Calendar events, such as API requests, inside %s"
+msgstr ""
+"Registra els esdeveniments del Google Calendar, com les sol·licituds API, "
+"dins %s"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:162
+msgid "Connect with Google"
+msgstr "Connecta't amb Google"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:164
+msgid "Successfully authenticated."
+msgstr "Autentificat amb èxit."
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:165
+msgid "Disconnect"
+msgstr "Desconnecta"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:167
+msgid ""
+"Unable to authenticate, you must enter with your <strong>Client ID</strong>, "
+"<strong>Client Secret</strong> and <strong>Calendar ID</strong>."
+msgstr ""
+"No es pot autenticar, ha d'entrar amb el seu <strong>ID de client</strong>, "
+"<strong>contrassenya</strong> i <strong>ID de calendari.</strong>"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:184
+msgid ""
+"To use this integration you need create a project in %1$s. Once your project "
+"has been created, you must enable the <strong>Google Calendar API</strong> "
+"in <strong>Your Project > Library</strong>, finally in <strong>Your Project "
+"> Credentials > Create Credentials</strong> you must create an OAuth Client "
+"ID for a <strong>Web application</strong> and set the <strong>Authorized "
+"redirect URIs</strong> as <code>%2$s</code>."
+msgstr ""
+"Per utilitzar aquesta integració necessita crear un projecte a %s. Quan el "
+"projecte ha estat creat, ha d'habilitar <strong>l'API de Google Calendar</"
+"strong> a <strong>APIs i auth > API,</strong> finalment, a <strong> APIs i "
+"auth >Credencials</strong> ha de crear un client d'OAuth per a una "
+"<strong>aplicació web</strong> i establir el <strong>Redirecció URI "
+"autoritzada </strong> com <code>%s</code> ."
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:184
+msgid "Google Developers Console"
+msgstr "Google Consola de Desenvolupadors"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:366
+msgid "Permission denied!"
+msgstr "Permís denegat!"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:404
+msgid "Invalid request!"
+msgstr "Sol·licitud no vàlida!"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:417
+msgid "Account connected successfully!"
+msgstr "Compte connectat amb èxit!"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:419
+msgid ""
+"Failed to connect to your account, please try again, if the problem "
+"persists, turn on Debug Log option and see what is happening."
+msgstr ""
+"Error en connectar al seu compte, si us plau intenti de nou, si el problema "
+"persisteix, activeu l'opció de registre de depuració i comproveu el que està "
+"succeint."
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:425
+msgid "Account disconnected successfully!"
+msgstr "Compte desconnectat amb èxit!"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:427
+msgid ""
+"Failed to disconnect to your account, please try again, if the problem "
+"persists, turn on Debug Log option and see what is happening."
+msgstr ""
+"Error en desconnectar al seu compte, si us plau intenti-ho de nou, si el "
+"problema persisteix, activeu l'opció de registre de depuració i comproveu el "
+"que està succeint."
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:479
+#: templates/emails/admin-booking-cancelled.php:23
+#: templates/emails/admin-new-booking.php:43
+#: templates/emails/customer-booking-cancelled.php:25
+#: templates/emails/customer-booking-confirmed.php:25
+#: templates/emails/customer-booking-notification.php:18
+#: templates/emails/customer-booking-reminder.php:22
+msgid "Booking ID"
+msgstr "ID de reserva"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:480
+#: includes/wc-bookings-functions.php:127
+#: templates/emails/admin-booking-cancelled.php:28
+#: templates/emails/admin-new-booking.php:48
+#: templates/emails/customer-booking-cancelled.php:30
+#: templates/emails/customer-booking-confirmed.php:30
+#: templates/emails/customer-booking-notification.php:23
+#: templates/emails/customer-booking-reminder.php:27
+msgid "Booking Type"
+msgstr "Tipus de reserva"
+
+#: includes/integrations/class-wc-bookings-google-calendar-integration.php:501
+#: woocommerce-bookings.php:370 woocommerce-bookings.php:373
+msgid "Booking"
+msgstr "Reserva"
+
+#: includes/wc-bookings-functions.php:128
+msgid "Booking Date"
+msgstr "Data de la reserva"
+
+#: includes/wc-bookings-functions.php:129
+msgid "Booking Time"
+msgstr "Hora de la reserva"
+
+#: includes/wc-bookings-functions.php:150
+#: includes/wc-bookings-functions.php:176
+#: includes/wc-bookings-functions.php:185
+#: includes/wc-bookings-functions.php:197
+msgid "Unpaid"
+msgstr "Pendent de pagament"
+
+#: includes/wc-bookings-functions.php:151
+#: includes/wc-bookings-functions.php:177
+#: includes/wc-bookings-functions.php:186
+#: includes/wc-bookings-functions.php:198
+msgid "Pending Confirmation"
+msgstr "Pendent de confirmació"
+
+#: includes/wc-bookings-functions.php:152
+#: includes/wc-bookings-functions.php:178
+#: includes/wc-bookings-functions.php:187
+#: includes/wc-bookings-functions.php:192
+#: includes/wc-bookings-functions.php:199
+msgid "Confirmed"
+msgstr "Confirmat"
+
+#: includes/wc-bookings-functions.php:153
+#: includes/wc-bookings-functions.php:179
+#: includes/wc-bookings-functions.php:188
+#: includes/wc-bookings-functions.php:193
+#: includes/wc-bookings-functions.php:200
+msgid "Paid"
+msgstr "Pagat"
+
+#: includes/wc-bookings-functions.php:154
+#: includes/wc-bookings-functions.php:180
+msgid "Cancelled"
+msgstr "Cancel·lat"
+
+#: includes/wc-bookings-functions.php:155
+#: includes/wc-bookings-functions.php:181
+#: includes/wc-bookings-functions.php:201
+msgid "Complete"
+msgstr "Completat"
+
+#: includes/wc-bookings-functions.php:159
+#: includes/wc-bookings-functions.php:207
+msgid "Partially Paid"
+msgstr "Parcialment pagat"
+
+#: includes/wc-bookings-functions.php:202
+msgid "In Cart"
+msgstr "Al carro"
+
+#: includes/wc-bookings-functions.php:480
+msgid ""
+"Rules with lower priority numbers will override rules with a higher priority "
+"(e.g. 9 overrides 10 ). Ordering is only applied within the same priority "
+"and higher order overrides lower order."
+msgstr ""
+"Regles amb menor nombre de prioritat invalidarà regles amb una prioritat més "
+"alta (p. ex. 9 overrides 10). Ordenació només s'aplica dins la mateixa "
+"prioritat i ordre superior invalida d'ordre inferior."
+
+#: includes/wc-bookings-functions.php:489
+msgid ""
+"Rules with lower priority numbers will override rules with a higher priority "
+"(e.g. 9 overrides 10 ). Global rules take priority over product rules which "
+"take priority over resource rules. By using priority numbers you can execute "
+"rules in different orders."
+msgstr ""
+"Regles amb menor nombre de prioritat invalidarà regles amb una prioritat més "
+"alta (p. ex. 9 overrides 10). Normes globals de tenir prioritat sobre normes "
+"de producte que de tenir prioritat sobre les normes de recurs. Utilitzant "
+"nombres prioritat pot executar regles en diferents ordres."
+
+#: includes/wc-bookings-functions.php:690
+msgid "%d left"
+msgid_plural "%d left"
+msgstr[0] "resten %d"
+msgstr[1] ""
+
+#: templates/booking-form/date-picker.php:5
+#: templates/booking-form/datetime-picker.php:6
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: templates/booking-form/date-picker.php:9
+#: templates/booking-form/datetime-picker.php:10
+msgid "Choose..."
+msgstr "Tria..."
+
+#: templates/booking-form/date-picker.php:16
+msgid "Start"
+msgstr "Inici"
+
+#: templates/booking-form/date-picker.php:23
+#: templates/booking-form/date-picker.php:34
+#: templates/booking-form/date-picker.php:48
+#: templates/booking-form/date-picker.php:59
+#: templates/booking-form/datetime-picker.php:18
+#: templates/booking-form/datetime-picker.php:29
+msgid "mm"
+msgstr "mm"
+
+#: templates/booking-form/date-picker.php:26
+#: templates/booking-form/date-picker.php:31
+#: templates/booking-form/date-picker.php:51
+#: templates/booking-form/date-picker.php:56
+#: templates/booking-form/datetime-picker.php:21
+#: templates/booking-form/datetime-picker.php:26
+msgid "dd"
+msgstr "dd"
+
+#: templates/booking-form/date-picker.php:27
+#: templates/booking-form/date-picker.php:32
+#: templates/booking-form/date-picker.php:52
+#: templates/booking-form/date-picker.php:57
+#: templates/booking-form/datetime-picker.php:22
+#: templates/booking-form/datetime-picker.php:27
+msgid "Day"
+msgstr "Dia"
+
+#: templates/booking-form/date-picker.php:38
+#: templates/booking-form/date-picker.php:63
+#: templates/booking-form/datetime-picker.php:34
+msgid "YYYY"
+msgstr "AAAA"
+
+#: templates/booking-form/date-picker.php:39
+#: templates/booking-form/date-picker.php:64
+#: templates/booking-form/datetime-picker.php:35
+msgid "Year"
+msgstr "Any"
+
+#: templates/booking-form/date-picker.php:45
+msgid "End"
+msgstr "Final"
+
+#: templates/booking-form/datetime-picker.php:40
+msgid "Time"
+msgstr "Horari"
+
+#: templates/booking-form/datetime-picker.php:42
+msgid "Choose a date above to see available times."
+msgstr "Trieu una data per veure els horaris disponibles."
+
+#: templates/emails/admin-booking-cancelled.php:12
+msgid ""
+"The following booking has been cancelled. The details of the cancelled "
+"booking can be found below."
+msgstr ""
+"S'ha cancel·lat la reserva següent. A continuació trobareu els detalls de la "
+"reserva anul·lada."
+
+#: templates/emails/admin-booking-cancelled.php:33
+#: templates/emails/admin-new-booking.php:53
+#: templates/emails/customer-booking-cancelled.php:35
+#: templates/emails/customer-booking-confirmed.php:35
+#: templates/emails/customer-booking-notification.php:28
+#: templates/emails/customer-booking-reminder.php:32
+msgid "Booking Start Date"
+msgstr "Data d'inici de la reserva"
+
+#: templates/emails/admin-booking-cancelled.php:37
+#: templates/emails/admin-new-booking.php:57
+#: templates/emails/customer-booking-cancelled.php:39
+#: templates/emails/customer-booking-confirmed.php:39
+#: templates/emails/customer-booking-notification.php:32
+#: templates/emails/customer-booking-reminder.php:36
+msgid "Booking End Date"
+msgstr "Data final de la reserva"
+
+#: templates/emails/admin-booking-cancelled.php:58
+#: templates/emails/admin-new-booking.php:82
+#: templates/emails/plain/admin-booking-cancelled.php:36
+msgid "You can view and edit this booking in the dashboard here: %s"
+msgstr "Vostè pot veure i editar aquesta reserva al tauler de control aquí: %s"
+
+#: templates/emails/admin-new-booking.php:10
+#: templates/emails/plain/admin-new-booking.php:12
+msgid ""
+"A booking has been made by %s and is awaiting your approval. The details of "
+"this booking are as follows:"
+msgstr ""
+"Una reserva efectuada per %s i està esperant la seva aprovació. Els detalls "
+"de la reserva són les següents:"
+
+#: templates/emails/admin-new-booking.php:12
+#: templates/emails/plain/admin-new-booking.php:14
+msgid ""
+"A new booking has been made by %s. The details of this booking are as "
+"follows:"
+msgstr ""
+"Una nova reserva ha estat feta per %s. Els detalls d'aquesta reserva són els "
+"següents:"
+
+#: templates/emails/admin-new-booking.php:79
+#: templates/emails/plain/admin-new-booking.php:60
+msgid ""
+"This booking is awaiting your approval. Please check it and inform the "
+"customer if the date is available or not."
+msgstr ""
+"Aquesta reserva està a l'espera de la seva aprovació. Comprovi si us plau i "
+"informi al client si la data està disponible o no."
+
+#: templates/emails/customer-booking-cancelled.php:13
+#: templates/emails/customer-booking-confirmed.php:13
+#: templates/emails/customer-booking-reminder.php:10
+#: templates/emails/plain/customer-booking-cancelled.php:10
+#: templates/emails/plain/customer-booking-confirmed.php:10
+#: templates/emails/plain/customer-booking-reminder.php:10
+msgid "Hello %s"
+msgstr "Hola %s"
+
+#: templates/emails/customer-booking-cancelled.php:16
+#: templates/emails/plain/customer-booking-cancelled.php:13
+msgid ""
+"We are sorry to say that your booking could not be confirmed and has been "
+"cancelled. The details of the cancelled booking can be found below."
+msgstr ""
+"Lamentem dir-li que la seva reserva no pot ser confirmada i s'ha cancel·lat. "
+"Els detalls de la reserva cancel·lada es poden trobar a continuació."
+
+#: templates/emails/customer-booking-cancelled.php:60
+#: templates/emails/plain/customer-booking-cancelled.php:40
+msgid "Please contact us if you have any questions or concerns."
+msgstr ""
+"Si us plau, poseu-vos en contacte amb nosaltres si té alguna pregunta o "
+"dubtes."
+
+#: templates/emails/customer-booking-confirmed.php:16
+msgid ""
+"Your booking has been confirmed. The details of your booking are shown below."
+msgstr ""
+"La seva reserva ha estat confirmada. Els detalls de la seva reserva es "
+"mostren a continuació."
+
+#: templates/emails/customer-booking-confirmed.php:63
+#: templates/emails/plain/customer-booking-confirmed.php:42
+msgid "To pay for this booking please use the following link: %s"
+msgstr "Per pagar aquesta reserva si us plau, utilitzeu el següent enllaç: %s"
+
+#: templates/emails/customer-booking-confirmed.php:63
+msgid "Pay for booking"
+msgstr "Pagar per reservar"
+
+#: templates/emails/customer-booking-confirmed.php:83
+msgid "Quantity"
+msgstr "Quantitat"
+
+#: templates/emails/customer-booking-confirmed.php:84
+msgid "Price"
+msgstr "Preu"
+
+#: templates/emails/customer-booking-reminder.php:13
+msgid "This is a reminder that your booking will take place tomorrow."
+msgstr ""
+"Això és un recordatori que la seva reserva es durà a terme demà. Els detalls "
+"de la seva reserva es mostren a continuació."
+
+#: templates/emails/plain/admin-booking-cancelled.php:9
+msgid ""
+"The following booking has been cancelled by the customer. The details of the "
+"cancelled booking can be found below."
+msgstr ""
+"S'ha cancel·lat la reserva següent pel client. A continuació trobareu els "
+"detalls de la reserva anul·lada."
+
+#: templates/emails/plain/admin-booking-cancelled.php:13
+#: templates/emails/plain/admin-new-booking.php:36
+#: templates/emails/plain/customer-booking-cancelled.php:17
+#: templates/emails/plain/customer-booking-confirmed.php:17
+#: templates/emails/plain/customer-booking-notification.php:15
+#: templates/emails/plain/customer-booking-reminder.php:17
+msgid "Booked: %s"
+msgstr "Reservat: %s"
+
+#: templates/emails/plain/admin-booking-cancelled.php:14
+#: templates/emails/plain/admin-new-booking.php:37
+#: templates/emails/plain/customer-booking-cancelled.php:18
+#: templates/emails/plain/customer-booking-confirmed.php:18
+#: templates/emails/plain/customer-booking-notification.php:16
+#: templates/emails/plain/customer-booking-reminder.php:18
+msgid "Booking ID: %s"
+msgstr "ID de reserva: %s"
+
+#: templates/emails/plain/admin-booking-cancelled.php:17
+#: templates/emails/plain/admin-new-booking.php:40
+#: templates/emails/plain/customer-booking-cancelled.php:21
+#: templates/emails/plain/customer-booking-confirmed.php:21
+#: templates/emails/plain/customer-booking-notification.php:19
+#: templates/emails/plain/customer-booking-reminder.php:21
+msgid "Booking Type: %s"
+msgstr "Tipus de Reserva: %s"
+
+#: templates/emails/plain/admin-booking-cancelled.php:20
+#: templates/emails/plain/admin-new-booking.php:43
+#: templates/emails/plain/customer-booking-cancelled.php:24
+#: templates/emails/plain/customer-booking-confirmed.php:24
+#: templates/emails/plain/customer-booking-notification.php:22
+#: templates/emails/plain/customer-booking-reminder.php:24
+msgid "Booking Start Date: %s"
+msgstr "Data d'inici de la reserva: %s"
+
+#: templates/emails/plain/admin-booking-cancelled.php:21
+#: templates/emails/plain/admin-new-booking.php:44
+#: templates/emails/plain/customer-booking-cancelled.php:25
+#: templates/emails/plain/customer-booking-confirmed.php:25
+#: templates/emails/plain/customer-booking-notification.php:23
+#: templates/emails/plain/customer-booking-reminder.php:25
+msgid "Booking End Date: %s"
+msgstr "Data final de la reserva: %s"
+
+#: templates/emails/plain/admin-booking-cancelled.php:30
+#: templates/emails/plain/admin-new-booking.php:53
+#: templates/emails/plain/customer-booking-cancelled.php:34
+#: templates/emails/plain/customer-booking-confirmed.php:34
+#: templates/emails/plain/customer-booking-notification.php:32
+#: templates/emails/plain/customer-booking-reminder.php:34
+msgid "%s: %d"
+msgstr "%s: %d"
+
+#: templates/emails/plain/customer-booking-confirmed.php:13
+msgid ""
+"Your booking for has been confirmed. The details of your booking are shown "
+"below."
+msgstr ""
+"La seva reserva ha estat confirmada. Els detalls de la seva reserva es "
+"mostren a continuació."
+
+#: templates/emails/plain/customer-booking-confirmed.php:55
+msgid "Order number: %s"
+msgstr "Número de comanda: %s"
+
+#: templates/emails/plain/customer-booking-confirmed.php:56
+msgid "Order date: %s"
+msgstr "Data de la comanda: %s"
+
+#: templates/emails/plain/customer-booking-notification.php:11
+msgid "The details of your booking are shown below."
+msgstr "Els detalls de la reserva es mostren a continuació."
+
+#: templates/emails/plain/customer-booking-reminder.php:13
+msgid ""
+"This is a reminder that your booking will take place tomorrow. The details "
+"of your booking are shown below."
+msgstr ""
+"Això és un recordatori que la seva reserva es durà a terme demà. Els detalls "
+"de la seva reserva es mostren a continuació."
+
+#: templates/myaccount/bookings.php:34 templates/myaccount/my-bookings.php:29
+msgid "Booked"
+msgstr "Reservat"
+
+#: templates/myaccount/bookings.php:65 templates/myaccount/my-bookings.php:60
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: templates/myaccount/bookings.php:78
+msgid "Go Shop"
+msgstr "Anar a la botiga"
+
+#: templates/myaccount/bookings.php:80
+msgid "No bookings available yet."
+msgstr "Encara no hi ha reserves disponibles."
+
+#: templates/myaccount/my-bookings.php:23
+msgid "My Bookings"
+msgstr "Les meves reserves"
+
+#: templates/order/admin/booking-display.php:31
+#: templates/order/booking-display.php:33
+msgid "Booking #%s"
+msgstr "Reserva #%s"
+
+#: templates/order/admin/booking-display.php:43
+msgid "View booking &rarr;"
+msgstr "Veure reserva &rarr;"
+
+#: templates/order/booking-display.php:41
+msgid "View my bookings &rarr;"
+msgstr "Les meves reserves &rarr;"
+
+#: templates/order/booking-summary-list.php:36
+msgid "%s: %s"
+msgstr "%s: %s"
+
+#: templates/order/booking-summary-list.php:59
+msgid "%d Persons"
+msgstr "%d Persones"
+
+#: templates/single-product/add-to-cart/booking.php:17
+msgid "Your browser must support JavaScript in order to make a booking."
+msgstr "El seu navegador ha suportar JavaScript per fer una reserva."
+
+#: woocommerce-bookings.php:319
+msgid "Person Type"
+msgstr "Tipus de Persona"
+
+#: woocommerce-bookings.php:332
+msgid "Bookable resources"
+msgstr "Recursos reservables"
+
+#: woocommerce-bookings.php:333
+msgid "Bookable resource"
+msgstr "Recurs reservable"
+
+#: woocommerce-bookings.php:334
+msgid "Add Resource"
+msgstr "Afegir recurs"
+
+#: woocommerce-bookings.php:335
+msgid "Add New Resource"
+msgstr "Afegir nou recurs"
+
+#: woocommerce-bookings.php:337
+msgid "Edit Resource"
+msgstr "Editar recurs"
+
+#: woocommerce-bookings.php:338
+msgid "New Resource"
+msgstr "Nou recurs"
+
+#: woocommerce-bookings.php:339 woocommerce-bookings.php:340
+msgid "View Resource"
+msgstr "Veure recurs"
+
+#: woocommerce-bookings.php:341
+msgid "Search Resource"
+msgstr "Buscar recurs"
+
+#: woocommerce-bookings.php:342
+msgid "No Resource found"
+msgstr "No s'han trobat recursos"
+
+#: woocommerce-bookings.php:343
+msgid "No Resource found in trash"
+msgstr "No s'han trobat recursos a la paperera"
+
+#: woocommerce-bookings.php:344
+msgid "Parent Resources"
+msgstr "Recursos pares"
+
+#: woocommerce-bookings.php:348
+msgid "Bookable resources are bookable within a bookings product."
+msgstr "Els recursos reservables es poden reservar en un producte en reserva."
+
+#: woocommerce-bookings.php:374
+msgid "Add Booking"
+msgstr "Afegir reserva"
+
+#: woocommerce-bookings.php:375
+msgid "Add New Booking"
+msgstr "Afegir nova reserva"
+
+#: woocommerce-bookings.php:377
+msgid "Edit Booking"
+msgstr "Editar reserva"
+
+#: woocommerce-bookings.php:379 woocommerce-bookings.php:380
+msgid "View Booking"
+msgstr "Veure reserva"
+
+#: woocommerce-bookings.php:381
+msgid "Search Bookings"
+msgstr "Buscar reserves"
+
+#: woocommerce-bookings.php:382
+msgid "No Bookings found"
+msgstr "No s'han trobat reserves"
+
+#: woocommerce-bookings.php:383
+msgid "No Bookings found in trash"
+msgstr "No s'han trobat reserves a la paperera"
+
+#: woocommerce-bookings.php:384
+msgid "Parent Bookings"
+msgstr "Reserves pares"
+
+#: woocommerce-bookings.php:386
+msgid "All Bookings"
+msgstr "Totes les reserves"
+
+#: woocommerce-bookings.php:388
+msgid "This is where bookings are stored."
+msgstr "Aquí és on s'emmagatzemen les reserves."
+
+#: woocommerce-bookings.php:416
+msgid "Complete <span class=\"count\">(%s)</span>"
+msgid_plural "Complete <span class=\"count\">(%s)</span>"
+msgstr[0] "Completa <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: woocommerce-bookings.php:424
+msgid "Paid &amp; Confirmed <span class=\"count\">(%s)</span>"
+msgid_plural "Paid &amp; Confirmed <span class=\"count\">(%s)</span>"
+msgstr[0] "Pagada i confirmada <span class=\"count\">(%s)</span>"
+msgstr[1] "Pagades i confirmades <span class=\"count\">(%s)</span>"
+
+#: woocommerce-bookings.php:432
+msgid "Confirmed <span class=\"count\">(%s)</span>"
+msgid_plural "Confirmed <span class=\"count\">(%s)</span>"
+msgstr[0] "Confirmada <span class=\"count\">(%s)</span>"
+msgstr[1] "Confirmades <span class=\"count\">(%s)</span>"
+
+#: woocommerce-bookings.php:440
+msgid "Un-paid <span class=\"count\">(%s)</span>"
+msgid_plural "Un-paid <span class=\"count\">(%s)</span>"
+msgstr[0] "Impagat <span class=\"count\">(%s)</span>"
+msgstr[1] "Impagats <span class=\"count\">(%s)</span>"
+
+#: woocommerce-bookings.php:448
+msgid "Pending Confirmation <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Confirmation <span class=\"count\">(%s)</span>"
+msgstr[0] "Pendent de confirmació <span class=\"count\">(%s)</span>"
+msgstr[1] "Pendents de confirmació <span class=\"count\">(%s)</span>"
+
+#: woocommerce-bookings.php:456
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] "Anul·lada <span class=\"count\">(%s)</span>"
+msgstr[1] "Anul·lades <span class=\"count\">(%s)</span>"
+
+#: woocommerce-bookings.php:464
+msgid "In Cart <span class=\"count\">(%s)</span>"
+msgid_plural "In Cart <span class=\"count\">(%s)</span>"
+msgstr[0] "En el carro <span class=\"count\">(%s)</span>"
+msgstr[1] "En el carro <span class=\"count\">(%s)</span>"
+
+#: woocommerce-bookings.php:483
+msgid "Partially Paid <span class=\"count\">(%s)</span>"
+msgid_plural "Partially Paid <span class=\"count\">(%s)</span>"
+msgstr[0] "Parcialment pagat <span class=\"count\">(%s)</span>"
+msgstr[1] "Parcialment pagats <span class=\"count\">(%s)</span>"
+
+#: woocommerce-bookings.php:644
+msgid "Enable Bookings Timezone calculation"
+msgstr "Habilitar càlcul de reserves en fus horari"
+
+#: woocommerce-bookings.php:645
+msgid ""
+"Schedule Bookings events, such as reminder emails and auto-completions of "
+"bookings, using your site’s configured timezone."
+msgstr ""
+"Planificar les reserves d'esdeveniments, com ara correus electrònics de "
+"notificació i acabaments auto de reserves, ús del seu lloc configurat el fus "
+"horari."
+
+#: woocommerce-bookings.php:669
+msgid "View Documentation"
+msgstr "Veure documentació"
+
+#: woocommerce-bookings.php:669
+msgid "Docs"
+msgstr "Documentació"
+
+#: woocommerce-bookings.php:670
+msgid "Visit Premium Customer Support Forum"
+msgstr "Visitar Fòrum de Suport per a clients Premium"
+
+#: woocommerce-bookings.php:670
+msgid "Premium Support"
+msgstr "Suport Premium"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Bookings"
+msgstr "WooCommerce Bookings"
+
+#. Plugin URI of the plugin/theme
+msgid "https://woocommerce.com/products/woocommerce-bookings/"
+msgstr "https://woocommerce.com/products/woocommerce-bookings/"
+
+#. Description of the plugin/theme
+msgid "Setup bookable products such as for reservations, services and hires."
+msgstr "Setup bookable products such as for reservations, services and hires."
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#: includes/admin/class-wc-bookings-details-meta-box.php:185
+msgctxt "woocommerce-bookings"
+msgid "Guest (%s)"
+msgstr "Convidat (%s)"
+
+#: woocommerce-bookings.php:411
+msgctxt "woocommerce-bookings"
+msgid "Complete"
+msgstr "Completat"
+
+#: woocommerce-bookings.php:419
+msgctxt "woocommerce-bookings"
+msgid "Paid &amp; Confirmed"
+msgstr "Pagada i confirmada"
+
+#: woocommerce-bookings.php:427
+msgctxt "woocommerce-bookings"
+msgid "Confirmed"
+msgstr "Confirmada"
+
+#: woocommerce-bookings.php:435
+msgctxt "woocommerce-bookings"
+msgid "Un-paid"
+msgstr "Impagat"
+
+#: woocommerce-bookings.php:443
+msgctxt "woocommerce-bookings"
+msgid "Pending Confirmation"
+msgstr "Pendent de confirmació"
+
+#: woocommerce-bookings.php:451
+msgctxt "woocommerce-bookings"
+msgid "Cancelled"
+msgstr "Cancel·lada"
+
+#: woocommerce-bookings.php:459
+msgctxt "woocommerce-bookings"
+msgid "In Cart"
+msgstr "Al carro"
+
+#: includes/admin/views/html-calendar-month.php:62
+msgctxt "date format"
+msgid "l"
+msgstr "l"
+
+#: includes/data-objects/class-wc-booking.php:778
+msgctxt "Guest string with name from booking order in brackets"
+msgid "%s (Guest)"
+msgstr "%s (Convidat)"
+
+#: includes/data-stores/class-wc-booking-data-store.php:55
+msgctxt "Booking date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+#: woocommerce-bookings.php:345
+msgctxt "Admin menu name"
+msgid "Resources"
+msgstr "Recursos"
+
+#: woocommerce-bookings.php:385
+msgctxt "Admin menu name"
+msgid "Bookings"
+msgstr "Reserves"
+
+#: woocommerce-bookings.php:478
+msgctxt "woocommerce-deposits"
+msgid "Partially Paid"
+msgstr "Parcialment pagat"

@@ -57,7 +57,7 @@ msgstr "No disponible"
 #: includes/admin/class-wc-bookable-resource-cpt.php:101
 #: woocommerce-bookings.php:336 woocommerce-bookings.php:376
 msgid "Edit"
-msgstr "Editar"
+msgstr "Edita"
 
 #: includes/admin/class-wc-bookable-resource-details-meta-box.php:57
 msgid "Resource details"
@@ -76,14 +76,14 @@ msgstr "La quantitat d'aquest recurs disponible en qualsevol moment donat."
 #: includes/admin/views/html-booking-pricing.php:55
 #: includes/admin/views/html-global-availability-settings.php:65
 msgid "Range type"
-msgstr "Tipus de rang"
+msgstr "Tipus d'interval"
 
 #: includes/admin/class-wc-bookable-resource-details-meta-box.php:102
 #: includes/admin/views/html-booking-availability.php:148
 #: includes/admin/views/html-booking-pricing.php:56
 #: includes/admin/views/html-global-availability-settings.php:66
 msgid "Range"
-msgstr "Rang"
+msgstr "Interval"
 
 #: includes/admin/class-wc-bookable-resource-details-meta-box.php:105
 #: includes/admin/views/html-booking-availability.php:151
@@ -111,7 +111,7 @@ msgstr "Prioritat"
 #: includes/admin/views/html-booking-pricing.php:72
 #: includes/admin/views/html-global-availability-settings.php:82
 msgid "Add Range"
-msgstr "Afegir rang"
+msgstr "Afegeix interval"
 
 #: includes/admin/class-wc-bookings-addons.php:23
 #: includes/class-wc-booking-order-manager.php:146
@@ -121,18 +121,18 @@ msgstr "Reserves"
 
 #: includes/admin/class-wc-bookings-admin.php:58
 msgid "Clean unused Person Types from DB"
-msgstr "Borrar de la base de dades els tipus de persona que no s'utilitzen"
+msgstr "Esborra de la base de dades els tipus de persona que no s'utilitzen"
 
 #: includes/admin/class-wc-bookings-admin.php:59
 msgid "Clean Person Types"
-msgstr "Borrar tipus de persona"
+msgstr "Esborra tipus de persona"
 
 #: includes/admin/class-wc-bookings-admin.php:60
 msgid ""
 "This tool will clean the person types that are not used by any booking or a "
 "product."
 msgstr ""
-"Aquesta eina netejarà els tipus de persona que no són utilitzades per "
+"Aquesta eina netejarà els tipus de persona que no són utilitzats per "
 "qualsevol reserva o un producte."
 
 #: includes/admin/class-wc-bookings-admin.php:342
@@ -212,7 +212,7 @@ msgstr "Introduïu un nom per al nou recurs"
 
 #: includes/admin/class-wc-bookings-admin.php:625
 msgid "Has persons"
-msgstr "Te persones"
+msgstr "Té persones"
 
 #: includes/admin/class-wc-bookings-admin.php:626
 msgid ""
@@ -224,7 +224,7 @@ msgstr ""
 
 #: includes/admin/class-wc-bookings-admin.php:632
 msgid "Has resources"
-msgstr "Te recursos"
+msgstr "Té recursos"
 
 #: includes/admin/class-wc-bookings-admin.php:633
 msgid ""
@@ -248,7 +248,7 @@ msgstr "No té permisos suficients per accedir a aquesta pàgina."
 
 #: includes/admin/class-wc-bookings-ajax.php:125
 msgid "You have taken too long. Please go back and retry."
-msgstr "Ha pres massa llarg. Si us plau torni i torneu a provar."
+msgstr "Heu trigat massa. Si us plau torneu enrere i torneu a provar."
 
 #: includes/admin/class-wc-bookings-ajax.php:158
 msgid "This booking is unavailable."
@@ -283,7 +283,7 @@ msgstr "Recurs #"
 
 #: includes/admin/class-wc-bookings-cpt.php:68
 msgid "Confirm bookings"
-msgstr "Confirmar les reserves"
+msgstr "Confirma les reserves"
 
 #: includes/admin/class-wc-bookings-cpt.php:69
 msgid "Unconfirm bookings"
@@ -295,11 +295,11 @@ msgstr "Cancel·la les reserves"
 
 #: includes/admin/class-wc-bookings-cpt.php:71
 msgid "Mark bookings as paid"
-msgstr "Marcar les reserves com pagades"
+msgstr "Marca les reserves com a pagades"
 
 #: includes/admin/class-wc-bookings-cpt.php:72
 msgid "Mark bookings as unpaid"
-msgstr "Marcar reserves com no pagades"
+msgstr "Marca reserves com a no pagades"
 
 #: includes/admin/class-wc-bookings-cpt.php:138
 msgid "Booking status changed."
@@ -365,7 +365,7 @@ msgstr "Mostra"
 
 #: includes/admin/class-wc-bookings-cpt.php:279
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "Confirma"
 
 #: includes/admin/class-wc-bookings-cpt.php:370
 msgid "All Bookable Products"
@@ -426,7 +426,7 @@ msgid ""
 "This booking is scheduled over 2 years into the future. Please ensure this "
 "is correct."
 msgstr ""
-"Aquesta reserva s'ha programat per més de 2 anys en el futur. Si us plau, "
+"Aquesta reserva s'ha programat per a més de 2 anys en el futur. Si us plau, "
 "assegureu-vos que això és correcte."
 
 #: includes/admin/class-wc-bookings-details-meta-box.php:76
@@ -434,7 +434,7 @@ msgid ""
 "This booking is scheduled over the products allowed max booking date (%s). "
 "Please ensure this is correct."
 msgstr ""
-"Aquesta reserva s'ha programat per més de 2 anys en el futur. Si us plau, "
+"Aquesta reserva s'ha programat per a més de 2 anys en el futur. Si us plau, "
 "assegureu-vos que això és correcte."
 
 #: includes/admin/class-wc-bookings-details-meta-box.php:81
@@ -457,7 +457,7 @@ msgid ""
 msgstr ""
 "Aquesta reserva no troba un complement (tipus de producte: %s) que "
 "requereix. Part de la informació es mostra a continuació, però pot ser "
-"incomplet. Si us plau, instal·la el complement a través dels connectors que "
+"incomplet. Si us plau, instal·leu el complement a través dels connectors que "
 "falten."
 
 #: includes/admin/class-wc-bookings-details-meta-box.php:137
@@ -573,7 +573,7 @@ msgstr "Hora final:"
 #: includes/admin/views/html-create-booking-page-2.php:24
 #: includes/admin/views/html-create-booking-page.php:3
 msgid "Create Booking"
-msgstr "Crear Reserva"
+msgstr "Crea Reserva"
 
 #: includes/admin/class-wc-bookings-menus.php:74
 msgid "Calendar"
@@ -583,7 +583,7 @@ msgstr "Calendari"
 #: includes/admin/views/html-notifications-page.php:2
 #: includes/admin/views/html-notifications-page.php:50
 msgid "Send Notification"
-msgstr "Enviar notificació"
+msgstr "Envia notificació"
 
 #: includes/admin/class-wc-bookings-menus.php:76
 #: includes/admin/views/html-settings-page.php:2
@@ -612,15 +612,15 @@ msgstr "Accions de reserva"
 
 #: includes/admin/class-wc-bookings-save-meta-box.php:63
 msgid "Move to trash"
-msgstr "Moure a la paperera"
+msgstr "Mou a la paperera"
 
 #: includes/admin/class-wc-bookings-save-meta-box.php:65
 msgid "Save Booking"
-msgstr "Guardar reserva"
+msgstr "Guarda reserva"
 
 #: includes/admin/class-wc-bookings-save-meta-box.php:65
 msgid "Save/update the booking"
-msgstr "Guardar/actualitzar la reserva"
+msgstr "Guarda/actualitza la reserva"
 
 #: includes/admin/views/html-booking-availability-fields.php:5
 #: includes/admin/views/html-booking-pricing-fields.php:9
@@ -837,7 +837,7 @@ msgstr "Màxim bloc reservable"
 
 #: includes/admin/views/html-booking-availability.php:48
 msgid "Require a buffer period of"
-msgstr "Requereixen un decalatge intermig de"
+msgstr "Requereixen un decalatge intermedi de"
 
 #: includes/admin/views/html-booking-availability.php:51
 msgid "between bookings"
@@ -894,14 +894,14 @@ msgstr "Primer bloc comença a..."
 
 #: includes/admin/views/html-booking-availability.php:102
 msgid "Restrict start days?"
-msgstr "Restringir els dies d'inici?"
+msgstr "Restringeix els dies d'inici?"
 
 #: includes/admin/views/html-booking-availability.php:103
 msgid ""
 "Restrict bookings so that they can only start on certain days of the week. "
 "Does not affect availability."
 msgstr ""
-"Restringiu les reserves perquè només puguin començar en determinats dies de "
+"Restringeix les reserves perquè només puguin començar en determinats dies de "
 "la setmana. No afecta la disponibilitat."
 
 #: includes/admin/views/html-booking-data.php:13
@@ -940,7 +940,7 @@ msgstr "La durada màxima permesa que l'usuari pot introduir."
 
 #: includes/admin/views/html-booking-data.php:59
 msgid "Enable Calendar Range Picker?"
-msgstr "Habilitar el calendari selector d'intervals?"
+msgstr "Habilita el calendari selector d'intervals?"
 
 #: includes/admin/views/html-booking-data.php:60
 msgid ""
@@ -957,11 +957,11 @@ msgstr "Mode de visualització del calendari"
 #: includes/admin/views/html-booking-data.php:70
 msgid "Choose how the calendar is displayed on the booking form."
 msgstr ""
-"Triar la manera com es visualitza el calendari del formulari de reserva."
+"Tria la manera com es visualitza el calendari del formulari de reserva."
 
 #: includes/admin/views/html-booking-data.php:72
 msgid "Display calendar on click"
-msgstr "Mostra el calendario al fer clic"
+msgstr "Mostra el calendari al fer clic"
 
 #: includes/admin/views/html-booking-data.php:73
 msgid "Calendar always visible"
@@ -988,8 +988,8 @@ msgid ""
 "Check this box if the booking can be cancelled by the customer after it has "
 "been purchased. A refund will not be sent automatically."
 msgstr ""
-"Activeu aquesta casella si la reserva es pot cancel·lar el client després "
-"que ha estat comprat. Una devolució no s'enviarà automàticament."
+"Activeu aquesta casella si la reserva es pot cancel·lar pel client després "
+"que hagi estat comprada. Una devolució no s'enviarà automàticament."
 
 #: includes/admin/views/html-booking-data.php:97
 msgid "Booking can be cancelled until"
@@ -1052,7 +1052,7 @@ msgstr "El nombre màxim de persones per reserva."
 
 #: includes/admin/views/html-booking-persons.php:33
 msgid "Multiply all costs by person count"
-msgstr "Multiplicar tots els costos per número de persones"
+msgstr "Multiplica tots els costos per número de persones"
 
 #: includes/admin/views/html-booking-persons.php:34
 msgid ""
@@ -1060,11 +1060,11 @@ msgid ""
 "costs) by the person count."
 msgstr ""
 "Habiliteu aquesta opció per multiplicar el cost total de l'estada (costos de "
-"bloc i de base) pel número de persones"
+"bloc i de base) pel nombre de persones"
 
 #: includes/admin/views/html-booking-persons.php:41
 msgid "Count persons as bookings"
-msgstr "Comptar les persones com a reserves"
+msgstr "Compta les persones com a reserves"
 
 #: includes/admin/views/html-booking-persons.php:42
 msgid ""
@@ -1072,11 +1072,11 @@ msgid ""
 "block (in availability) is reached."
 msgstr ""
 "Habiliteu aquesta opció per comptar a cada persona com una reserva fins les "
-"reserves max per bloc (a dalt) s'assoleixin."
+"reserves Màx. per bloc (a dalt) s'assoleixin."
 
 #: includes/admin/views/html-booking-persons.php:49
 msgid "Enable person types"
-msgstr "Habilitar tipus de persona"
+msgstr "Habilita tipus de persona"
 
 #: includes/admin/views/html-booking-persons.php:50
 #: includes/admin/views/html-booking-persons.php:72
@@ -1094,16 +1094,16 @@ msgstr "Tipus de persona"
 #: includes/admin/views/html-booking-persons.php:61
 #: includes/admin/views/html-booking-resources.php:33
 msgid "Close all"
-msgstr "Tancar tots"
+msgstr "Tanca tots"
 
 #: includes/admin/views/html-booking-persons.php:61
 #: includes/admin/views/html-booking-resources.php:33
 msgid "Expand all"
-msgstr "Obrir tots"
+msgstr "Obre tots"
 
 #: includes/admin/views/html-booking-persons.php:89
 msgid "Add Person Type"
-msgstr "Afegir tipus de persona"
+msgstr "Afegeix tipus de persona"
 
 #: includes/admin/views/html-booking-pricing-fields.php:63
 msgid "Time Range"
@@ -1149,18 +1149,18 @@ msgid ""
 "calculated for you. If a booking has varying costs, this will be prefixed "
 "with the word \"from:\"."
 msgstr ""
-"El cost que es mostra a l'usuari en la fitxa de producte. Deixar en blanc "
-"perquè es calculí per vosté. Si la reserva té diferents costos, això serà "
-"precedit de la paraula \"Des de:\"."
+"El cost que es mostra a l'usuari en la fitxa de producte. Deixeu en blanc "
+"perquè es calculí per a vós. Si la reserva té diferents costos, això serà "
+"precedit amb el text \"Des de:\"."
 
 #: includes/admin/views/html-booking-pricing.php:59
 msgid "Enter a cost for this rule. Applied to the booking as a whole."
 msgstr ""
-"Introduïu un cost per a aquesta regla. Aplicat a la reserva com addicional."
+"Introduïu un cost per a aquesta regla. S'aplica a la reserva com a addicional."
 
 #: includes/admin/views/html-booking-pricing.php:60
 msgid "Enter a cost for this rule. Applied to each booking block."
-msgstr "Introduïu un cost per a aquesta regla. Aplicar a cada bloc de reserva."
+msgstr "Introduïu un cost per a aquesta regla. S'aplica a cada bloc de reserva."
 
 #: includes/admin/views/html-booking-pricing.php:73
 msgid "All matching rules will be applied to the booking."
@@ -1172,7 +1172,7 @@ msgstr "Suprimeix"
 
 #: includes/admin/views/html-booking-resource.php:10
 msgid "Edit resource"
-msgstr "Editar recurs"
+msgstr "Edita recurs"
 
 #: includes/admin/views/html-booking-resources.php:7
 #: includes/booking-form/class-wc-booking-form.php:263
@@ -1186,7 +1186,7 @@ msgstr "Etiqueta"
 
 #: includes/admin/views/html-booking-resources.php:11
 msgid "The label shown on the frontend if the resource is customer defined."
-msgstr "L'etiqueta mostra en el frontal si el recurs és definit pel client."
+msgstr "L'etiqueta mostra en el frontal si el recurs el defineix el client."
 
 #: includes/admin/views/html-booking-resources.php:16
 msgid "Resources are..."
@@ -1220,7 +1220,7 @@ msgstr ""
 
 #: includes/admin/views/html-booking-resources.php:65
 msgid "Add/link Resource"
-msgstr "Afegir/enllaçar recurs"
+msgstr "Afegeix/enllaça recurs"
 
 #: includes/admin/views/html-booking-resources.php:67
 msgid "New resource"
@@ -1228,7 +1228,7 @@ msgstr "Nou recurs"
 
 #: includes/admin/views/html-booking-resources.php:79
 msgid "Manage Resources"
-msgstr "Gestionar recursos"
+msgstr "Gestiona recursos"
 
 #: includes/admin/views/html-calendar-day.php:2
 msgid "Bookings by day"
@@ -1237,7 +1237,7 @@ msgstr "Reserves per dia"
 #: includes/admin/views/html-calendar-day.php:12
 #: includes/admin/views/html-calendar-month.php:13
 msgid "Filter Bookings"
-msgstr "Filtrar les reserves"
+msgstr "Filtra les reserves"
 
 #: includes/admin/views/html-calendar-day.php:14
 #: includes/admin/views/html-calendar-month.php:15
@@ -1289,24 +1289,24 @@ msgstr "Seleccioneu un producte reservable..."
 
 #: includes/admin/views/html-create-booking-page.php:40
 msgid "Create Order"
-msgstr "Crear comanda"
+msgstr "Crea comanda"
 
 #: includes/admin/views/html-create-booking-page.php:46
 msgid ""
 "Create a new corresponding order for this new booking. Please note - the "
 "booking will not be active until the order is processed/completed."
 msgstr ""
-"Crear una nova comanda corresponent per a aquesta nova reserva. Tingueu en "
+"Crea una nova comanda corresponent per a aquesta nova reserva. Tingueu en "
 "compte - la reserva no estarà activa fins que la comanda es processi / "
 "completi."
 
 #: includes/admin/views/html-create-booking-page.php:52
 msgid "Assign this booking to an existing order with this ID:"
-msgstr "Assigneu aquesta reserva a una comanda existent amb aquesta ID:"
+msgstr "Assigneu aquesta reserva a una comanda existent amb aquest ID:"
 
 #: includes/admin/views/html-create-booking-page.php:59
 msgid "Don't create an order for this booking."
-msgstr "No crear una comanda d'aquesta reserva."
+msgstr "No creïs una comanda d'aquesta reserva."
 
 #: includes/admin/views/html-create-booking-page.php:68
 #: includes/booking-form/class-wc-booking-form.php:39
@@ -1326,12 +1326,12 @@ msgid ""
 "The availability rules you define here will affect all bookable products in "
 "your store."
 msgstr ""
-"Les regles sobre la disponibilitat que defineixi aquí afectaran tots els "
+"Les regles sobre la disponibilitat que definiu aquí afectaran tots els "
 "productes que es poden reservar a la seva botiga."
 
 #: includes/admin/views/html-global-availability-settings.php:103
 msgid "Save Changes"
-msgstr "Guardar els canvis"
+msgstr "Guarda els canvis"
 
 #: includes/admin/views/html-notifications-page.php:4
 msgid ""
@@ -2018,16 +2018,16 @@ msgid ""
 "Your booking is awaiting confirmation. You will be notified by email as soon "
 "as we've confirmed availability."
 msgstr ""
-"La seva reserva està a l'espera de confirmació. Se li notificarà per correu "
+"La vostra reserva està a l'espera de confirmació. Se us notificarà per correu "
 "electrònic tan aviat com haguem confirmat la disponibilitat."
 
 #: includes/integrations/class-wc-bookings-addons.php:51
 msgid "Bookings: Multiply cost by person count"
-msgstr "Reserves: Multiplicar el cost pel recompte de persones"
+msgstr "Reserves: Multiplica el cost pel recompte de persones"
 
 #: includes/integrations/class-wc-bookings-addons.php:55
 msgid "Bookings: Multiply cost by block count"
-msgstr "Reserves: Multiplicar el cost pel recompte de blocs"
+msgstr "Reserves: Multiplica el cost pel recompte de blocs"
 
 #: includes/integrations/class-wc-bookings-google-calendar-integration.php:17
 #: includes/integrations/class-wc-bookings-google-calendar-integration.php:417
@@ -2047,7 +2047,7 @@ msgstr "ID de client"
 
 #: includes/integrations/class-wc-bookings-google-calendar-integration.php:90
 msgid "Enter with your Google Client ID."
-msgstr "Entrar amb el seu ID de client de Google."
+msgstr "Entreu amb el seu ID de client de Google."
 
 #: includes/integrations/class-wc-bookings-google-calendar-integration.php:95
 msgid "Client Secret"
@@ -2055,7 +2055,7 @@ msgstr "Secret de client"
 
 #: includes/integrations/class-wc-bookings-google-calendar-integration.php:97
 msgid "Enter with your Google Client Secret."
-msgstr "Entrar amb el seu Secret de client de Google."
+msgstr "Entreu amb el vostre Secret de client de Google."
 
 #: includes/integrations/class-wc-bookings-google-calendar-integration.php:102
 msgid "Calendar ID"
@@ -2079,7 +2079,7 @@ msgstr "Registre de depuració"
 
 #: includes/integrations/class-wc-bookings-google-calendar-integration.php:120
 msgid "Enable logging"
-msgstr "Activar el registre"
+msgstr "Activa el registre"
 
 #: includes/integrations/class-wc-bookings-google-calendar-integration.php:122
 msgid "Log Google Calendar events, such as API requests, inside %s"
@@ -2117,9 +2117,9 @@ msgid ""
 "redirect URIs</strong> as <code>%2$s</code>."
 msgstr ""
 "Per utilitzar aquesta integració necessita crear un projecte a %s. Quan el "
-"projecte ha estat creat, ha d'habilitar <strong>l'API de Google Calendar</"
+"projecte ha estat creat, heu d'habilitar <strong>l'API de Google Calendar</"
 "strong> a <strong>APIs i auth > API,</strong> finalment, a <strong> APIs i "
-"auth >Credencials</strong> ha de crear un client d'OAuth per a una "
+"auth >Credencials</strong> heu de crear un client d'OAuth per a una "
 "<strong>aplicació web</strong> i establir el <strong>Redirecció URI "
 "autoritzada </strong> com <code>%s</code> ."
 
@@ -2262,10 +2262,10 @@ msgid ""
 "take priority over resource rules. By using priority numbers you can execute "
 "rules in different orders."
 msgstr ""
-"Regles amb menor nombre de prioritat invalidarà regles amb una prioritat més "
-"alta (p. ex. 9 overrides 10). Normes globals de tenir prioritat sobre normes "
-"de producte que de tenir prioritat sobre les normes de recurs. Utilitzant "
-"nombres prioritat pot executar regles en diferents ordres."
+"Regles amb menor nombre de prioritat invalidaran regles amb una prioritat més "
+"alta (p. ex. 9 invalida 10). Normes globals tenen prioritat sobre normes "
+"de producte que tenen prioritat sobre les normes de recurs. Utilitzant "
+"nombres de prioritat podeu executar regles en diferents ordres."
 
 #: includes/wc-bookings-functions.php:690
 msgid "%d left"
@@ -2368,7 +2368,7 @@ msgstr "Data final de la reserva"
 #: templates/emails/admin-new-booking.php:82
 #: templates/emails/plain/admin-booking-cancelled.php:36
 msgid "You can view and edit this booking in the dashboard here: %s"
-msgstr "Vostè pot veure i editar aquesta reserva al tauler de control aquí: %s"
+msgstr "Podeu veure i editar aquesta reserva al tauler de control aquí: %s"
 
 #: templates/emails/admin-new-booking.php:10
 #: templates/emails/plain/admin-new-booking.php:12
@@ -2376,7 +2376,7 @@ msgid ""
 "A booking has been made by %s and is awaiting your approval. The details of "
 "this booking are as follows:"
 msgstr ""
-"Una reserva efectuada per %s i està esperant la seva aprovació. Els detalls "
+"Hi ha una reserva efectuada per %s i està esperant la vostra aprovació. Els detalls "
 "de la reserva són les següents:"
 
 #: templates/emails/admin-new-booking.php:12
@@ -2395,7 +2395,7 @@ msgid ""
 "customer if the date is available or not."
 msgstr ""
 "Aquesta reserva està a l'espera de la seva aprovació. Comprovi si us plau i "
-"informi al client si la data està disponible o no."
+"informeu al client si la data està disponible o no."
 
 #: templates/emails/customer-booking-cancelled.php:13
 #: templates/emails/customer-booking-confirmed.php:13
@@ -2412,21 +2412,21 @@ msgid ""
 "We are sorry to say that your booking could not be confirmed and has been "
 "cancelled. The details of the cancelled booking can be found below."
 msgstr ""
-"Lamentem dir-li que la seva reserva no pot ser confirmada i s'ha cancel·lat. "
+"Lamentem dir-vos que la seva reserva no pot ser confirmada i s'ha cancel·lat. "
 "Els detalls de la reserva cancel·lada es poden trobar a continuació."
 
 #: templates/emails/customer-booking-cancelled.php:60
 #: templates/emails/plain/customer-booking-cancelled.php:40
 msgid "Please contact us if you have any questions or concerns."
 msgstr ""
-"Si us plau, poseu-vos en contacte amb nosaltres si té alguna pregunta o "
-"dubtes."
+"Si us plau, poseu-vos en contacte amb nosaltres si teniu alguna pregunta o "
+"dubte."
 
 #: templates/emails/customer-booking-confirmed.php:16
 msgid ""
 "Your booking has been confirmed. The details of your booking are shown below."
 msgstr ""
-"La seva reserva ha estat confirmada. Els detalls de la seva reserva es "
+"La vostra reserva ha estat confirmada. Els detalls de la vostra reserva es "
 "mostren a continuació."
 
 #: templates/emails/customer-booking-confirmed.php:63
@@ -2436,7 +2436,7 @@ msgstr "Per pagar aquesta reserva si us plau, utilitzeu el següent enllaç: %s"
 
 #: templates/emails/customer-booking-confirmed.php:63
 msgid "Pay for booking"
-msgstr "Pagar per reservar"
+msgstr "Paga per reservar"
 
 #: templates/emails/customer-booking-confirmed.php:83
 msgid "Quantity"
@@ -2519,7 +2519,7 @@ msgid ""
 "Your booking for has been confirmed. The details of your booking are shown "
 "below."
 msgstr ""
-"La seva reserva ha estat confirmada. Els detalls de la seva reserva es "
+"La vostra reserva ha estat confirmada. Els detalls de la vostra reserva es "
 "mostren a continuació."
 
 #: templates/emails/plain/customer-booking-confirmed.php:55
@@ -2539,8 +2539,8 @@ msgid ""
 "This is a reminder that your booking will take place tomorrow. The details "
 "of your booking are shown below."
 msgstr ""
-"Això és un recordatori que la seva reserva es durà a terme demà. Els detalls "
-"de la seva reserva es mostren a continuació."
+"Això és un recordatori que la vostra reserva es durà a terme demà. Els detalls "
+"de la vostra reserva es mostren a continuació."
 
 #: templates/myaccount/bookings.php:34 templates/myaccount/my-bookings.php:29
 msgid "Booked"
@@ -2552,7 +2552,7 @@ msgstr "Cancel·la"
 
 #: templates/myaccount/bookings.php:78
 msgid "Go Shop"
-msgstr "Anar a la botiga"
+msgstr "Vés a la botiga"
 
 #: templates/myaccount/bookings.php:80
 msgid "No bookings available yet."
@@ -2601,15 +2601,15 @@ msgstr "Recurs reservable"
 
 #: woocommerce-bookings.php:334
 msgid "Add Resource"
-msgstr "Afegir recurs"
+msgstr "Afegeix recurs"
 
 #: woocommerce-bookings.php:335
 msgid "Add New Resource"
-msgstr "Afegir nou recurs"
+msgstr "Afegeix nou recurs"
 
 #: woocommerce-bookings.php:337
 msgid "Edit Resource"
-msgstr "Editar recurs"
+msgstr "Edita recurs"
 
 #: woocommerce-bookings.php:338
 msgid "New Resource"
@@ -2621,7 +2621,7 @@ msgstr "Veure recurs"
 
 #: woocommerce-bookings.php:341
 msgid "Search Resource"
-msgstr "Buscar recurs"
+msgstr "Busca recurs"
 
 #: woocommerce-bookings.php:342
 msgid "No Resource found"
@@ -2641,15 +2641,15 @@ msgstr "Els recursos reservables es poden reservar en un producte en reserva."
 
 #: woocommerce-bookings.php:374
 msgid "Add Booking"
-msgstr "Afegir reserva"
+msgstr "Afegeix reserva"
 
 #: woocommerce-bookings.php:375
 msgid "Add New Booking"
-msgstr "Afegir nova reserva"
+msgstr "Afegeix nova reserva"
 
 #: woocommerce-bookings.php:377
 msgid "Edit Booking"
-msgstr "Editar reserva"
+msgstr "Edita reserva"
 
 #: woocommerce-bookings.php:379 woocommerce-bookings.php:380
 msgid "View Booking"
@@ -2657,7 +2657,7 @@ msgstr "Veure reserva"
 
 #: woocommerce-bookings.php:381
 msgid "Search Bookings"
-msgstr "Buscar reserves"
+msgstr "Busca reserves"
 
 #: woocommerce-bookings.php:382
 msgid "No Bookings found"
@@ -2729,7 +2729,7 @@ msgstr[1] "Parcialment pagats <span class=\"count\">(%s)</span>"
 
 #: woocommerce-bookings.php:644
 msgid "Enable Bookings Timezone calculation"
-msgstr "Habilitar càlcul de reserves en fus horari"
+msgstr "Habilita càlcul de reserves en fus horari"
 
 #: woocommerce-bookings.php:645
 msgid ""
@@ -2737,8 +2737,8 @@ msgid ""
 "bookings, using your site’s configured timezone."
 msgstr ""
 "Planificar les reserves d'esdeveniments, com ara correus electrònics de "
-"notificació i acabaments auto de reserves, ús del seu lloc configurat el fus "
-"horari."
+"notificació i acabaments auto de reserves, fent servir el fus horari del vostre "
+"lloc web."
 
 #: woocommerce-bookings.php:669
 msgid "View Documentation"
